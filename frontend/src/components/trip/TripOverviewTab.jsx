@@ -1,4 +1,5 @@
 import { useMemo } from 'react';
+import SeasonalConditionsCard from './SeasonalConditionsCard';
 
 export default function TripOverviewTab({ trip }) {
   const tripDurationDays = useMemo(() => {
@@ -40,13 +41,14 @@ export default function TripOverviewTab({ trip }) {
               <p className="text-sm text-slate-500">{stop.start_date} &rarr; {stop.end_date}</p>
             </div>
 
-            <div className="p-5">
-              <div className="space-y-2 pl-4 border-l-2 border-slate-100">
+            <div className="p-5 grid grid-cols-1 md:grid-cols-3 gap-6">
+              <div className="md:col-span-2 space-y-2 pl-4 border-l-2 border-slate-100">
+                <h4 className="text-xs font-bold text-slate-400 uppercase tracking-wider mb-2">Planned Activities</h4>
                 {(stop.activities || []).length === 0 ? (
                   <p className="text-sm text-slate-400 italic">No activities added yet.</p>
                 ) : (
                   (stop.activities || []).map(act => (
-                    <div key={act.id} className="flex justify-between items-center py-2">
+                    <div key={act.id} className="flex justify-between items-center py-2 border-b border-slate-100 last:border-b-0">
                       <div>
                         <p className="font-medium text-slate-700">{act.custom_place_name || act.activity?.name}</p>
                         <p className="text-xs text-slate-500">{act.activity_date}{act.start_time ? ` at ${act.start_time}` : ''}</p>
@@ -58,6 +60,14 @@ export default function TripOverviewTab({ trip }) {
                     </div>
                   ))
                 )}
+              </div>
+              <div className="md:col-span-1">
+                <SeasonalConditionsCard 
+                  cityId={stop.city_id}
+                  startDate={stop.start_date}
+                  cityName={stop.city?.city}
+                  dateRange={`${stop.start_date} to ${stop.end_date}`}
+                />
               </div>
             </div>
           </div>
@@ -71,3 +81,4 @@ export default function TripOverviewTab({ trip }) {
     </div>
   );
 }
+
