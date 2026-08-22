@@ -1,0 +1,325 @@
+state,city,place_name,category,sub_category,must_visit,description,duration_needed,best_time_to_visit,ideal_for
+Maharashtra,Mumbai,Gateway of India,Sightseeing,Monument/Historic Site,Yes,Iconic limestone arch monument overlooking Mumbai Harbor,1-2 hrs,Oct-Mar (early morning),"Family, Couple, Solo"
+Maharashtra,Mumbai,Siddhivinayak Temple,Sightseeing,Religious Site,Yes,Siddhivinayak Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Maharashtra,Mumbai,Bademiya,Food & Dining,Food & Dining,Yes,Bademiya - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Pune,Shaniwar Wada,Sightseeing,Tourist Spot,No,Shaniwar Wada - Local attraction,1-2 hrs,Year-round,Tourist
+Maharashtra,Pune,Sinhagad Fort viewpoint,Sightseeing,Heritage Fort,Yes,Sinhagad Fort viewpoint - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Maharashtra,Pune,Vaishali,Food & Dining,Food & Dining,Yes,Vaishali - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Nashik,Sula Vineyards,Sightseeing,Tourist Spot,No,Sula Vineyards - Local attraction,1-2 hrs,Year-round,Tourist
+Maharashtra,Nashik,Trimbakeshwar Temple,Sightseeing,Religious Site,Yes,Trimbakeshwar Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Maharashtra,Nashik,Chandu Halwai,Food & Dining,Food & Dining,Yes,Chandu Halwai - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),Ajanta & Ellora Caves,Sightseeing,Tourist Spot,No,Ajanta & Ellora Caves - Local attraction,1-2 hrs,Year-round,Tourist
+Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),Bibi Ka Maqbara,Sightseeing,Tourist Spot,No,Bibi Ka Maqbara - Local attraction,1-2 hrs,Year-round,Tourist
+Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),Bhoj Restaurant,Food & Dining,Food & Dining,Yes,Bhoj Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Lonavala,Tiger's Point viewpoint,Sightseeing,Viewpoint,Yes,Tiger's Point viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Maharashtra,Lonavala,Bhaja Caves,Sightseeing,Tourist Spot,No,Bhaja Caves - Local attraction,1-2 hrs,Year-round,Tourist
+Maharashtra,Lonavala,Adarsh Restaurant,Food & Dining,Food & Dining,Yes,Adarsh Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Mahabaleshwar,Venna Lake,Sightseeing,Nature/Lake,Yes,Venna Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Maharashtra,Mahabaleshwar,Mahabaleshwar Point (Arthur's Seat),Sightseeing,Viewpoint,Yes,Mahabaleshwar Point (Arthur's Seat) - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Maharashtra,Mahabaleshwar,Mapro Garden,Food & Dining,Food & Dining,Yes,Mapro Garden - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Nagpur,Deekshabhoomi,Sightseeing,Tourist Spot,No,Deekshabhoomi - Local attraction,1-2 hrs,Year-round,Tourist
+Maharashtra,Nagpur,Sitabuldi Fort,Sightseeing,Heritage Fort,Yes,Sitabuldi Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Maharashtra,Nagpur,Haldiram's Nagpur,Food & Dining,Food & Dining,Yes,Haldiram's Nagpur - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Kolhapur,Mahalaxmi Temple,Sightseeing,Religious Site,Yes,Mahalaxmi Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Maharashtra,Kolhapur,Rankala Lake,Sightseeing,Nature/Lake,Yes,Rankala Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Maharashtra,Kolhapur,Padma Restaurant,Food & Dining,Food & Dining,Yes,Padma Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Maharashtra,Alibaug,Kolaba Fort,Sightseeing,Heritage Fort,Yes,Kolaba Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Maharashtra,Alibaug,Alibaug Beach,Sightseeing,Beach,Yes,Alibaug Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Maharashtra,Alibaug,Sri Krishna Restaurant,Food & Dining,Food & Dining,Yes,Sri Krishna Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Jaipur,Amber Fort,Sightseeing,Heritage Fort,Yes,Amber Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Rajasthan,Jaipur,Hawa Mahal,Sightseeing,Tourist Spot,No,Hawa Mahal - Local attraction,1-2 hrs,Year-round,Tourist
+Rajasthan,Jaipur,Laxmi Misthan Bhandar,Food & Dining,Food & Dining,Yes,Laxmi Misthan Bhandar - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Udaipur,City Palace Udaipur,Sightseeing,Tourist Spot,No,City Palace Udaipur - Local attraction,1-2 hrs,Year-round,Tourist
+Rajasthan,Udaipur,Lake Pichola,Sightseeing,Nature/Lake,Yes,Lake Pichola - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Rajasthan,Udaipur,Ambrai Restaurant,Food & Dining,Food & Dining,Yes,Ambrai Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Jodhpur,Mehrangarh Fort,Sightseeing,Heritage Fort,Yes,Mehrangarh Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Rajasthan,Jodhpur,Jaswant Thada,Sightseeing,Tourist Spot,No,Jaswant Thada - Local attraction,1-2 hrs,Year-round,Tourist
+Rajasthan,Jodhpur,Gypsy Restaurant,Food & Dining,Food & Dining,Yes,Gypsy Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Jaisalmer,Jaisalmer Fort,Sightseeing,Heritage Fort,Yes,Jaisalmer Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Rajasthan,Jaisalmer,Sam Sand Dunes viewpoint,Sightseeing,Viewpoint,Yes,Sam Sand Dunes viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Rajasthan,Jaisalmer,Trio Restaurant,Food & Dining,Food & Dining,Yes,Trio Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Pushkar,Pushkar Lake,Sightseeing,Nature/Lake,Yes,Pushkar Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Rajasthan,Pushkar,Brahma Temple,Sightseeing,Religious Site,Yes,Brahma Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Rajasthan,Pushkar,Sixth Sense Rooftop Cafe,Food & Dining,Food & Dining,Yes,Sixth Sense Rooftop Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Mount Abu,Dilwara Jain Temples,Sightseeing,Religious Site,Yes,Dilwara Jain Temples - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Rajasthan,Mount Abu,Sunset Point,Sightseeing,Viewpoint,Yes,Sunset Point - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Rajasthan,Mount Abu,Kanha Restaurant,Food & Dining,Food & Dining,Yes,Kanha Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Bikaner,Junagarh Fort,Sightseeing,Heritage Fort,Yes,Junagarh Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Rajasthan,Bikaner,Karni Mata Temple,Sightseeing,Religious Site,Yes,Karni Mata Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Rajasthan,Bikaner,Chotu Motu Joshi,Food & Dining,Food & Dining,Yes,Chotu Motu Joshi - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Ajmer,Ajmer Sharif Dargah,Sightseeing,Tourist Spot,No,Ajmer Sharif Dargah - Local attraction,1-2 hrs,Year-round,Tourist
+Rajasthan,Ajmer,Ana Sagar Lake,Sightseeing,Nature/Lake,Yes,Ana Sagar Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Rajasthan,Ajmer,Elite Restaurant,Food & Dining,Food & Dining,Yes,Elite Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Rajasthan,Chittorgarh,Chittorgarh Fort,Sightseeing,Heritage Fort,Yes,Chittorgarh Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Rajasthan,Chittorgarh,Vijay Stambh,Sightseeing,Tourist Spot,No,Vijay Stambh - Local attraction,1-2 hrs,Year-round,Tourist
+Rajasthan,Chittorgarh,Local Rajasthani dhaba near fort road,Food & Dining,Heritage Fort,Yes,Local Rajasthani dhaba near fort road - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Kerala,Kochi,Fort Kochi & Chinese Fishing Nets,Sightseeing,Heritage Fort,Yes,Fort Kochi & Chinese Fishing Nets - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Kerala,Kochi,Mattancherry Palace,Sightseeing,Tourist Spot,No,Mattancherry Palace - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Kochi,Kayees Rahmathulla Cafe,Food & Dining,Food & Dining,Yes,Kayees Rahmathulla Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Kerala,Munnar,Munnar Tea Gardens,Sightseeing,Tourist Spot,No,Munnar Tea Gardens - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Munnar,Eravikulam National Park,Sightseeing,Tourist Spot,No,Eravikulam National Park - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Munnar,Rapsy Restaurant,Food & Dining,Food & Dining,Yes,Rapsy Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Kerala,Alleppey,Alleppey Backwaters Houseboat,Sightseeing,Tourist Spot,No,Alleppey Backwaters Houseboat - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Alleppey,Kumarakom Bird Sanctuary,Sightseeing,Tourist Spot,No,Kumarakom Bird Sanctuary - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Alleppey,Chakara Restaurant,Food & Dining,Food & Dining,Yes,Chakara Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Kerala,Thekkady,Periyar Wildlife Sanctuary,Sightseeing,Tourist Spot,No,Periyar Wildlife Sanctuary - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Thekkady,Spice plantations tour,Sightseeing,Tourist Spot,No,Spice plantations tour - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Thekkady,Ebony's Restaurant,Food & Dining,Food & Dining,Yes,Ebony's Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Kerala,Wayanad,Edakkal Caves,Sightseeing,Tourist Spot,No,Edakkal Caves - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Wayanad,Chembra Peak viewpoint,Sightseeing,Viewpoint,Yes,Chembra Peak viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Kerala,Wayanad,Café Coffee Day Wayanad / local eateries,Food & Dining,Food & Dining,Yes,Café Coffee Day Wayanad / local eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Kerala,Kovalam,Kovalam Beach & Lighthouse,Sightseeing,Beach,Yes,Kovalam Beach & Lighthouse - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Kerala,Kovalam,Vizhinjam Marine Aquarium,Sightseeing,Tourist Spot,No,Vizhinjam Marine Aquarium - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Kovalam,Waves Restaurant,Food & Dining,Food & Dining,Yes,Waves Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Kerala,Kumarakom,Kumarakom Backwaters,Sightseeing,Tourist Spot,No,Kumarakom Backwaters - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Kumarakom,Bird Sanctuary,Sightseeing,Tourist Spot,No,Bird Sanctuary - Local attraction,1-2 hrs,Year-round,Tourist
+Kerala,Kumarakom,Kumarakom lakeside restaurants,Food & Dining,Nature/Lake,Yes,Kumarakom lakeside restaurants - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Kerala,Varkala,Varkala Cliff Beach,Sightseeing,Beach,Yes,Varkala Cliff Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Kerala,Varkala,Janardanaswamy Temple,Sightseeing,Religious Site,Yes,Janardanaswamy Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Kerala,Varkala,Clafouti Cafe,Food & Dining,Food & Dining,Yes,Clafouti Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Kerala,Kozhikode,Kozhikode Beach,Sightseeing,Beach,Yes,Kozhikode Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Kerala,Kozhikode,Kappad Beach (historic),Sightseeing,Beach,Yes,Kappad Beach (historic) - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Kerala,Kozhikode,Paragon Restaurant,Food & Dining,Food & Dining,Yes,Paragon Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Chennai,Marina Beach,Sightseeing,Beach,Yes,Marina Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Tamil Nadu,Chennai,Kapaleeshwarar Temple,Sightseeing,Religious Site,Yes,Kapaleeshwarar Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Tamil Nadu,Chennai,Murugan Idli Shop,Food & Dining,Food & Dining,Yes,Murugan Idli Shop - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Ooty,Ooty Botanical Garden,Sightseeing,Tourist Spot,No,Ooty Botanical Garden - Local attraction,1-2 hrs,Year-round,Tourist
+Tamil Nadu,Ooty,Doddabetta Peak,Sightseeing,Viewpoint,Yes,Doddabetta Peak - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Tamil Nadu,Ooty,Nahar's Nilgiris Bakery,Food & Dining,Food & Dining,Yes,Nahar's Nilgiris Bakery - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Madurai,Meenakshi Amman Temple,Sightseeing,Religious Site,Yes,Meenakshi Amman Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Tamil Nadu,Madurai,Thirumalai Nayakkar Mahal,Sightseeing,Tourist Spot,No,Thirumalai Nayakkar Mahal - Local attraction,1-2 hrs,Year-round,Tourist
+Tamil Nadu,Madurai,Sree Sabarees,Food & Dining,Food & Dining,Yes,Sree Sabarees - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Kodaikanal,Kodaikanal Lake,Sightseeing,Nature/Lake,Yes,Kodaikanal Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Tamil Nadu,Kodaikanal,Coaker's Walk viewpoint,Sightseeing,Viewpoint,Yes,Coaker's Walk viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Tamil Nadu,Kodaikanal,Cloud Street Cafe,Food & Dining,Food & Dining,Yes,Cloud Street Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Rameswaram,Ramanathaswamy Temple,Sightseeing,Religious Site,Yes,Ramanathaswamy Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Tamil Nadu,Rameswaram,Dhanushkodi ghost town viewpoint,Sightseeing,Viewpoint,Yes,Dhanushkodi ghost town viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Tamil Nadu,Rameswaram,Ganesh Mess,Food & Dining,Food & Dining,Yes,Ganesh Mess - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Kanyakumari,Vivekananda Rock Memorial,Sightseeing,Tourist Spot,No,Vivekananda Rock Memorial - Local attraction,1-2 hrs,Year-round,Tourist
+Tamil Nadu,Kanyakumari,Sunrise-Sunset viewpoint (Cape),Sightseeing,Viewpoint,Yes,Sunrise-Sunset viewpoint (Cape) - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Tamil Nadu,Kanyakumari,Sangam Restaurant,Food & Dining,Food & Dining,Yes,Sangam Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Mahabalipuram,Shore Temple,Sightseeing,Religious Site,Yes,Shore Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Tamil Nadu,Mahabalipuram,Five Rathas,Sightseeing,Tourist Spot,No,Five Rathas - Local attraction,1-2 hrs,Year-round,Tourist
+Tamil Nadu,Mahabalipuram,Moonrakers Restaurant,Food & Dining,Food & Dining,Yes,Moonrakers Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Coimbatore,Marudhamalai Temple,Sightseeing,Religious Site,Yes,Marudhamalai Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Tamil Nadu,Coimbatore,VOC Park & Zoo,Sightseeing,Tourist Spot,No,VOC Park & Zoo - Local attraction,1-2 hrs,Year-round,Tourist
+Tamil Nadu,Coimbatore,Annapoorna Restaurant,Food & Dining,Food & Dining,Yes,Annapoorna Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Tamil Nadu,Thanjavur,Brihadeeswarar Temple,Sightseeing,Religious Site,Yes,Brihadeeswarar Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Tamil Nadu,Thanjavur,Thanjavur Art Gallery,Sightseeing,Tourist Spot,No,Thanjavur Art Gallery - Local attraction,1-2 hrs,Year-round,Tourist
+Tamil Nadu,Thanjavur,Sathars Restaurant,Food & Dining,Food & Dining,Yes,Sathars Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Bangalore,Lalbagh Botanical Garden,Sightseeing,Tourist Spot,No,Lalbagh Botanical Garden - Local attraction,1-2 hrs,Year-round,Tourist
+Karnataka,Bangalore,Bangalore Palace,Sightseeing,Tourist Spot,No,Bangalore Palace - Local attraction,1-2 hrs,Year-round,Tourist
+Karnataka,Bangalore,MTR (Mavalli Tiffin Room),Food & Dining,Food & Dining,Yes,MTR (Mavalli Tiffin Room) - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Mysore,Mysore Palace,Sightseeing,Tourist Spot,No,Mysore Palace - Local attraction,1-2 hrs,Year-round,Tourist
+Karnataka,Mysore,Chamundi Hills,Sightseeing,Viewpoint,Yes,Chamundi Hills - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Karnataka,Mysore,Vinayaka Mylari,Food & Dining,Food & Dining,Yes,Vinayaka Mylari - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Coorg,Abbey Falls,Sightseeing,Tourist Spot,No,Abbey Falls - Local attraction,1-2 hrs,Year-round,Tourist
+Karnataka,Coorg,Raja's Seat,Sightseeing,Viewpoint,Yes,Raja's Seat - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Karnataka,Coorg,Coorg Cuisine.Com,Food & Dining,Food & Dining,Yes,Coorg Cuisine.Com - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Hampi,Virupaksha Temple,Sightseeing,Religious Site,Yes,Virupaksha Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Karnataka,Hampi,Matanga Hill sunrise viewpoint,Sightseeing,Viewpoint,Yes,Matanga Hill sunrise viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Karnataka,Hampi,Mango Tree Restaurant,Food & Dining,Food & Dining,Yes,Mango Tree Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Gokarna,Om Beach,Sightseeing,Beach,Yes,Om Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Karnataka,Gokarna,Mahabaleshwar Temple,Sightseeing,Religious Site,Yes,Mahabaleshwar Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Karnataka,Gokarna,Namaste Cafe,Food & Dining,Food & Dining,Yes,Namaste Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Chikmagalur,Mullayanagiri Peak,Sightseeing,Viewpoint,Yes,Mullayanagiri Peak - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Karnataka,Chikmagalur,Coffee plantations tour,Sightseeing,Tourist Spot,No,Coffee plantations tour - Local attraction,1-2 hrs,Year-round,Tourist
+Karnataka,Chikmagalur,Coffee Bean Restaurant,Food & Dining,Food & Dining,Yes,Coffee Bean Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Udupi,Sri Krishna Matha Temple,Sightseeing,Religious Site,Yes,Sri Krishna Matha Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Karnataka,Udupi,Malpe Beach,Sightseeing,Beach,Yes,Malpe Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Karnataka,Udupi,Mitra Samaj Bhojanalay,Food & Dining,Food & Dining,Yes,Mitra Samaj Bhojanalay - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Badami,Badami Cave Temples,Sightseeing,Religious Site,Yes,Badami Cave Temples - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Karnataka,Badami,Agastya Lake viewpoint,Sightseeing,Nature/Lake,Yes,Agastya Lake viewpoint - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Karnataka,Badami,Local Badami dhabas,Food & Dining,Food & Dining,Yes,Local Badami dhabas - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Karnataka,Vijayapura (Bijapur),Gol Gumbaz,Sightseeing,Tourist Spot,No,Gol Gumbaz - Local attraction,1-2 hrs,Year-round,Tourist
+Karnataka,Vijayapura (Bijapur),Ibrahim Rauza,Sightseeing,Tourist Spot,No,Ibrahim Rauza - Local attraction,1-2 hrs,Year-round,Tourist
+Karnataka,Vijayapura (Bijapur),Kamat Restaurant,Food & Dining,Food & Dining,Yes,Kamat Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Agra,Taj Mahal,Sightseeing,UNESCO Heritage Site,Yes,"World's most iconic marble mausoleum, symbol of eternal love",3-4 hrs,Oct-Mar (sunrise/sunset),"Family, Couple, Solo"
+Uttar Pradesh,Agra,Agra Fort,Sightseeing,Heritage Fort,Yes,Agra Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Uttar Pradesh,Agra,Pinch of Spice,Food & Dining,Food & Dining,Yes,Pinch of Spice - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Varanasi,Kashi Vishwanath Temple,Sightseeing,Religious Site,Yes,Kashi Vishwanath Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttar Pradesh,Varanasi,Dashashwamedh Ghat,Sightseeing,Tourist Spot,No,Dashashwamedh Ghat - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Varanasi,Blue Lassi Shop,Food & Dining,Food & Dining,Yes,Blue Lassi Shop - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Lucknow,Bara Imambara,Sightseeing,Tourist Spot,No,Bara Imambara - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Lucknow,Chota Imambara,Sightseeing,Tourist Spot,No,Chota Imambara - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Lucknow,Tunday Kababi,Food & Dining,Food & Dining,Yes,Tunday Kababi - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Mathura,Krishna Janmabhoomi Temple,Sightseeing,Religious Site,Yes,Krishna Janmabhoomi Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttar Pradesh,Mathura,Vishram Ghat,Sightseeing,Tourist Spot,No,Vishram Ghat - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Mathura,Brijwasi Sweets,Food & Dining,Food & Dining,Yes,Brijwasi Sweets - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Vrindavan,Banke Bihari Temple,Sightseeing,Religious Site,Yes,Banke Bihari Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttar Pradesh,Vrindavan,ISKCON Temple,Sightseeing,Religious Site,Yes,ISKCON Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttar Pradesh,Vrindavan,Vrindavan local prasad shops,Food & Dining,Food & Dining,Yes,Vrindavan local prasad shops - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Ayodhya,Ram Janmabhoomi Temple,Sightseeing,Religious Site,Yes,Ram Janmabhoomi Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttar Pradesh,Ayodhya,Hanuman Garhi,Sightseeing,Tourist Spot,No,Hanuman Garhi - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Ayodhya,Local Awadhi eateries,Food & Dining,Food & Dining,Yes,Local Awadhi eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Prayagraj (Allahabad),Triveni Sangam,Sightseeing,Tourist Spot,No,Triveni Sangam - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Prayagraj (Allahabad),Allahabad Fort,Sightseeing,Heritage Fort,Yes,Allahabad Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Uttar Pradesh,Prayagraj (Allahabad),Local Prayagraj eateries,Food & Dining,Food & Dining,Yes,Local Prayagraj eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Jhansi,Jhansi Fort,Sightseeing,Heritage Fort,Yes,Jhansi Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Uttar Pradesh,Jhansi,Rani Mahal,Sightseeing,Tourist Spot,No,Rani Mahal - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Jhansi,Local Bundelkhandi dhabas,Food & Dining,Food & Dining,Yes,Local Bundelkhandi dhabas - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttar Pradesh,Kushinagar,Mahaparinirvana Temple,Sightseeing,Religious Site,Yes,Mahaparinirvana Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttar Pradesh,Kushinagar,Ramabhar Stupa,Sightseeing,Tourist Spot,No,Ramabhar Stupa - Local attraction,1-2 hrs,Year-round,Tourist
+Uttar Pradesh,Kushinagar,Local Buddhist-circuit eateries,Food & Dining,Food & Dining,Yes,Local Buddhist-circuit eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Manali,Solang Valley,Sightseeing,Adventure Activity,Yes,Paragliding and adventure sports hub with snow activities in winter,4-6 hrs,"Oct-Nov, Mar-May (summer/winter)","Adventure, Family"
+Himachal Pradesh,Manali,Hadimba Temple,Sightseeing,Religious Site,Yes,Hadimba Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Himachal Pradesh,Manali,Johnson's Cafe,Food & Dining,Food & Dining,Yes,Johnson's Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Shimla,Mall Road,Sightseeing,Tourist Spot,No,Mall Road - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Shimla,Jakhoo Hill Temple viewpoint,Sightseeing,Religious Site,Yes,Jakhoo Hill Temple viewpoint - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Himachal Pradesh,Shimla,Cafe Simla Times,Food & Dining,Food & Dining,Yes,Cafe Simla Times - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Dharamshala,McLeod Ganj,Sightseeing,Tourist Spot,No,McLeod Ganj - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Dharamshala,Dalai Lama Temple Complex,Sightseeing,Religious Site,Yes,Dalai Lama Temple Complex - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Himachal Pradesh,Dharamshala,Tibet Kitchen,Food & Dining,Food & Dining,Yes,Tibet Kitchen - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Kasol,Parvati Valley trek,Sightseeing,Tourist Spot,No,Parvati Valley trek - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Kasol,Manikaran Sahib Gurudwara,Sightseeing,Tourist Spot,No,Manikaran Sahib Gurudwara - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Kasol,Moon Dance Cafe,Food & Dining,Food & Dining,Yes,Moon Dance Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Dalhousie,Khajjiar (Mini Switzerland),Sightseeing,Viewpoint,Yes,Khajjiar (Mini Switzerland) - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Himachal Pradesh,Dalhousie,St. John's Church,Sightseeing,Tourist Spot,No,St. John's Church - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Dalhousie,Kwality Restaurant,Food & Dining,Food & Dining,Yes,Kwality Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Kullu,Kullu Valley,Sightseeing,Tourist Spot,No,Kullu Valley - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Kullu,Raghunath Temple,Sightseeing,Religious Site,Yes,Raghunath Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Himachal Pradesh,Kullu,Monal Restaurant,Food & Dining,Food & Dining,Yes,Monal Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Spiti Valley,Key Monastery,Sightseeing,Tourist Spot,No,Key Monastery - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Spiti Valley,Chandratal Lake viewpoint,Sightseeing,Nature/Lake,Yes,Chandratal Lake viewpoint - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Himachal Pradesh,Spiti Valley,Local Spiti homestays,Food & Dining,Food & Dining,Yes,Local Spiti homestays - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Chail,Chail Palace,Sightseeing,Tourist Spot,No,Chail Palace - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Chail,Highest Cricket Ground viewpoint,Sightseeing,Viewpoint,Yes,Highest Cricket Ground viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Himachal Pradesh,Chail,Palace Restaurant Chail,Food & Dining,Food & Dining,Yes,Palace Restaurant Chail - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Himachal Pradesh,Bir Billing,Paragliding Site,Sightseeing,Tourist Spot,No,Paragliding Site - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Bir Billing,Bir Monastery,Sightseeing,Tourist Spot,No,Bir Monastery - Local attraction,1-2 hrs,Year-round,Tourist
+Himachal Pradesh,Bir Billing,Garden Cafe Bir,Food & Dining,Food & Dining,Yes,Garden Cafe Bir - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Kolkata,Victoria Memorial,Sightseeing,Tourist Spot,No,Victoria Memorial - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Kolkata,Dakshineswar Kali Temple,Sightseeing,Religious Site,Yes,Dakshineswar Kali Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+West Bengal,Kolkata,Peter Cat,Food & Dining,Food & Dining,Yes,Peter Cat - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Darjeeling,Darjeeling Himalayan Railway,Sightseeing,Tourist Spot,No,Darjeeling Himalayan Railway - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Darjeeling,Tiger Hill sunrise viewpoint,Sightseeing,Viewpoint,Yes,Tiger Hill sunrise viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+West Bengal,Darjeeling,Kunga Restaurant,Food & Dining,Food & Dining,Yes,Kunga Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Digha,Digha Beach,Sightseeing,Beach,Yes,Digha Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+West Bengal,Digha,New Digha viewpoint,Sightseeing,Viewpoint,Yes,New Digha viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+West Bengal,Digha,Local Digha seafood shacks,Food & Dining,Food & Dining,Yes,Local Digha seafood shacks - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Kalimpong,Deolo Hill viewpoint,Sightseeing,Viewpoint,Yes,Deolo Hill viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+West Bengal,Kalimpong,Zang Dhok Palri Monastery,Sightseeing,Tourist Spot,No,Zang Dhok Palri Monastery - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Kalimpong,Kalimpong Park Restaurant,Food & Dining,Food & Dining,Yes,Kalimpong Park Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Siliguri,Mahananda Wildlife Sanctuary,Sightseeing,Tourist Spot,No,Mahananda Wildlife Sanctuary - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Siliguri,ISKCON Temple Siliguri,Sightseeing,Religious Site,Yes,ISKCON Temple Siliguri - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+West Bengal,Siliguri,Khana Khazana Restaurant,Food & Dining,Food & Dining,Yes,Khana Khazana Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Shantiniketan,Visva-Bharati University,Sightseeing,Tourist Spot,No,Visva-Bharati University - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Shantiniketan,Rabindra Bhavana Museum,Sightseeing,Tourist Spot,No,Rabindra Bhavana Museum - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Shantiniketan,Local Bengali eateries,Food & Dining,Food & Dining,Yes,Local Bengali eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Murshidabad,Hazarduari Palace,Sightseeing,Tourist Spot,No,Hazarduari Palace - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Murshidabad,Katra Mosque,Sightseeing,Tourist Spot,No,Katra Mosque - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Murshidabad,Local Murshidabad eateries,Food & Dining,Food & Dining,Yes,Local Murshidabad eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Sundarbans,Sundarbans National Park,Sightseeing,Tourist Spot,No,Sundarbans National Park - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Sundarbans,Sajnekhali Watchtower viewpoint,Sightseeing,Viewpoint,Yes,Sajnekhali Watchtower viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+West Bengal,Sundarbans,Local resort restaurants,Food & Dining,Food & Dining,Yes,Local resort restaurants - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+West Bengal,Mirik,Mirik Lake,Sightseeing,Nature/Lake,Yes,Mirik Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+West Bengal,Mirik,Bokar Monastery,Sightseeing,Tourist Spot,No,Bokar Monastery - Local attraction,1-2 hrs,Year-round,Tourist
+West Bengal,Mirik,Local Mirik tea-garden cafes,Food & Dining,Food & Dining,Yes,Local Mirik tea-garden cafes - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Amritsar,Golden Temple,Sightseeing,Religious Site,Yes,Golden Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Punjab,Amritsar,Jallianwala Bagh,Sightseeing,Tourist Spot,No,Jallianwala Bagh - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Amritsar,Kesar Da Dhaba,Food & Dining,Food & Dining,Yes,Kesar Da Dhaba - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Chandigarh,Rock Garden,Sightseeing,Tourist Spot,No,Rock Garden - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Chandigarh,Sukhna Lake,Sightseeing,Nature/Lake,Yes,Sukhna Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Punjab,Chandigarh,Pal Dhaba,Food & Dining,Food & Dining,Yes,Pal Dhaba - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Ludhiana,Punjab Agricultural University Museum,Sightseeing,Tourist Spot,No,Punjab Agricultural University Museum - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Ludhiana,Nehru Rose Garden,Sightseeing,Tourist Spot,No,Nehru Rose Garden - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Ludhiana,Local Ludhiana dhabas,Food & Dining,Food & Dining,Yes,Local Ludhiana dhabas - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Patiala,Qila Mubarak,Sightseeing,Tourist Spot,No,Qila Mubarak - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Patiala,Sheesh Mahal,Sightseeing,Tourist Spot,No,Sheesh Mahal - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Patiala,Baba Ka Dhaba,Food & Dining,Food & Dining,Yes,Baba Ka Dhaba - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Jalandhar,Devi Talab Mandir,Sightseeing,Tourist Spot,No,Devi Talab Mandir - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Jalandhar,Wonderland Theme Park,Sightseeing,Tourist Spot,No,Wonderland Theme Park - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Jalandhar,Local Jalandhar eateries,Food & Dining,Food & Dining,Yes,Local Jalandhar eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Anandpur Sahib,Virasat-e-Khalsa Museum,Sightseeing,Tourist Spot,No,Virasat-e-Khalsa Museum - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Anandpur Sahib,Kesgarh Sahib Gurudwara,Sightseeing,Tourist Spot,No,Kesgarh Sahib Gurudwara - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Anandpur Sahib,Gurudwara Langar,Food & Dining,Food & Dining,Yes,Gurudwara Langar - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Bathinda,Qila Mubarak Bathinda,Sightseeing,Tourist Spot,No,Qila Mubarak Bathinda - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Bathinda,Rose Garden Bathinda,Sightseeing,Tourist Spot,No,Rose Garden Bathinda - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Bathinda,Local Bathinda dhabas,Food & Dining,Food & Dining,Yes,Local Bathinda dhabas - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Kapurthala,Jagatjit Palace,Sightseeing,Tourist Spot,No,Jagatjit Palace - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Kapurthala,Moorish Mosque,Sightseeing,Tourist Spot,No,Moorish Mosque - Local attraction,1-2 hrs,Year-round,Tourist
+Punjab,Kapurthala,Local Kapurthala eateries,Food & Dining,Food & Dining,Yes,Local Kapurthala eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Punjab,Pathankot,Shahpurkandi Fort,Sightseeing,Heritage Fort,Yes,Shahpurkandi Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Punjab,Pathankot,Ranjit Sagar Dam viewpoint,Sightseeing,Viewpoint,Yes,Ranjit Sagar Dam viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Punjab,Pathankot,Local Pathankot dhabas,Food & Dining,Food & Dining,Yes,Local Pathankot dhabas - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Rishikesh,Laxman Jhula & Ram Jhula,Sightseeing,Tourist Spot,No,Laxman Jhula & Ram Jhula - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Rishikesh,River Rafting,Sightseeing,Tourist Spot,No,River Rafting - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Rishikesh,Chotiwala,Food & Dining,Food & Dining,Yes,Chotiwala - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Nainital,Naini Lake,Sightseeing,Nature/Lake,Yes,Naini Lake - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Uttarakhand,Nainital,Naina Devi Temple,Sightseeing,Religious Site,Yes,Naina Devi Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttarakhand,Nainital,Sakley's Restaurant,Food & Dining,Food & Dining,Yes,Sakley's Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Mussoorie,Kempty Falls,Sightseeing,Tourist Spot,No,Kempty Falls - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Mussoorie,Gun Hill viewpoint,Sightseeing,Viewpoint,Yes,Gun Hill viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Uttarakhand,Mussoorie,Landour Bakehouse,Food & Dining,Food & Dining,Yes,Landour Bakehouse - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Haridwar,Har Ki Pauri,Sightseeing,Tourist Spot,No,Har Ki Pauri - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Haridwar,Mansa Devi Temple,Sightseeing,Religious Site,Yes,Mansa Devi Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttarakhand,Haridwar,Chotiwala Haridwar,Food & Dining,Food & Dining,Yes,Chotiwala Haridwar - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Dehradun,Robber's Cave (Guchhupani),Sightseeing,Tourist Spot,No,Robber's Cave (Guchhupani) - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Dehradun,Tapkeshwar Temple,Sightseeing,Religious Site,Yes,Tapkeshwar Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttarakhand,Dehradun,Kalsang Friends Corner,Food & Dining,Food & Dining,Yes,Kalsang Friends Corner - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Auli,Auli Ski Resort,Sightseeing,Viewpoint,Yes,Auli Ski Resort - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Uttarakhand,Auli,Auli Ropeway viewpoint,Sightseeing,Viewpoint,Yes,Auli Ropeway viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Uttarakhand,Auli,Local Auli resort restaurants,Food & Dining,Food & Dining,Yes,Local Auli resort restaurants - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Kausani,Kausani viewpoint (Himalaya range),Sightseeing,Viewpoint,Yes,Kausani viewpoint (Himalaya range) - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Uttarakhand,Kausani,Anasakti Ashram,Sightseeing,Tourist Spot,No,Anasakti Ashram - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Kausani,Local Kausani eateries,Food & Dining,Food & Dining,Yes,Local Kausani eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Ranikhet,Jhula Devi Temple,Sightseeing,Religious Site,Yes,Jhula Devi Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Uttarakhand,Ranikhet,Chaubatia Gardens viewpoint,Sightseeing,Viewpoint,Yes,Chaubatia Gardens viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Uttarakhand,Ranikhet,Local Ranikhet cafes,Food & Dining,Food & Dining,Yes,Local Ranikhet cafes - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Uttarakhand,Ramnagar (Jim Corbett),Jim Corbett National Park,Sightseeing,Tourist Spot,No,Jim Corbett National Park - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Ramnagar (Jim Corbett),Corbett Waterfall,Sightseeing,Tourist Spot,No,Corbett Waterfall - Local attraction,1-2 hrs,Year-round,Tourist
+Uttarakhand,Ramnagar (Jim Corbett),Local Ramnagar resort restaurants,Food & Dining,Food & Dining,Yes,Local Ramnagar resort restaurants - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Panaji,Fontainhas Latin Quarter,Sightseeing,Tourist Spot,No,Fontainhas Latin Quarter - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Panaji,Mandovi River Cruise viewpoint,Sightseeing,Viewpoint,Yes,Mandovi River Cruise viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Goa,Panaji,Viva Panjim,Food & Dining,Food & Dining,Yes,Viva Panjim - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Calangute,Calangute Beach,Sightseeing,Beach,Yes,Calangute Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Goa,Calangute,St. Alex Church,Sightseeing,Tourist Spot,No,St. Alex Church - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Calangute,Souza Lobo,Food & Dining,Food & Dining,Yes,Souza Lobo - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Baga,Baga Beach,Sightseeing,Beach,Yes,Baga Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Goa,Baga,Chapora Fort viewpoint,Sightseeing,Heritage Fort,Yes,Chapora Fort viewpoint - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Goa,Baga,Britto's,Food & Dining,Food & Dining,Yes,Britto's - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Anjuna,Anjuna Flea Market,Sightseeing,Tourist Spot,No,Anjuna Flea Market - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Anjuna,Anjuna Beach cliffs viewpoint,Sightseeing,Beach,Yes,Anjuna Beach cliffs viewpoint - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Goa,Anjuna,Curlies Beach Shack,Food & Dining,Food & Dining,Yes,Curlies Beach Shack - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Candolim,Candolim Beach,Sightseeing,Beach,Yes,Candolim Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Goa,Candolim,Fort Aguada,Sightseeing,Heritage Fort,Yes,Fort Aguada - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Goa,Candolim,Bomra's Restaurant,Food & Dining,Food & Dining,Yes,Bomra's Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Palolem,Palolem Beach,Sightseeing,Beach,Yes,Palolem Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Goa,Palolem,Cabo de Rama Fort viewpoint,Sightseeing,Heritage Fort,Yes,Cabo de Rama Fort viewpoint - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Goa,Palolem,Ourem 88,Food & Dining,Food & Dining,Yes,Ourem 88 - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Margao,Margao Municipal Market,Sightseeing,Tourist Spot,No,Margao Municipal Market - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Margao,Church of the Holy Spirit,Sightseeing,Tourist Spot,No,Church of the Holy Spirit - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Margao,Longuinhos Restaurant,Food & Dining,Food & Dining,Yes,Longuinhos Restaurant - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Vasco da Gama,Bogmalo Beach,Sightseeing,Beach,Yes,Bogmalo Beach - Beautiful coastal destination,2-3 hrs,Oct-Apr,"Family, Couple, Solo"
+Goa,Vasco da Gama,Naval Aviation Museum,Sightseeing,Tourist Spot,No,Naval Aviation Museum - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Vasco da Gama,Local Vasco seafood joints,Food & Dining,Food & Dining,Yes,Local Vasco seafood joints - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Goa,Old Goa,Basilica of Bom Jesus,Sightseeing,Tourist Spot,No,Basilica of Bom Jesus - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Old Goa,Se Cathedral,Sightseeing,Tourist Spot,No,Se Cathedral - Local attraction,1-2 hrs,Year-round,Tourist
+Goa,Old Goa,Local Old Goa cafes,Food & Dining,Food & Dining,Yes,Local Old Goa cafes - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),New Delhi,India Gate,Sightseeing,Tourist Spot,No,India Gate - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),New Delhi,Lotus Temple,Sightseeing,Religious Site,Yes,Lotus Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Delhi (NCT),New Delhi,Indian Accent,Food & Dining,Food & Dining,Yes,Indian Accent - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),Old Delhi,Red Fort,Sightseeing,Heritage Fort,Yes,Red Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Delhi (NCT),Old Delhi,Jama Masjid,Sightseeing,Tourist Spot,No,Jama Masjid - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Old Delhi,Karim's,Food & Dining,Food & Dining,Yes,Karim's - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),Chandni Chowk,Chandni Chowk Market,Sightseeing,Tourist Spot,No,Chandni Chowk Market - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Chandni Chowk,Gauri Shankar Temple,Sightseeing,Religious Site,Yes,Gauri Shankar Temple - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Delhi (NCT),Chandni Chowk,Paranthe Wali Gali,Food & Dining,Food & Dining,Yes,Paranthe Wali Gali - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),Connaught Place,Connaught Place Market,Sightseeing,Tourist Spot,No,Connaught Place Market - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Connaught Place,Hanuman Mandir CP,Sightseeing,Tourist Spot,No,Hanuman Mandir CP - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Connaught Place,United Coffee House,Food & Dining,Food & Dining,Yes,United Coffee House - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),South Delhi (Hauz Khas),Hauz Khas Village & Fort,Sightseeing,Heritage Fort,Yes,Hauz Khas Village & Fort - Historic fort with architectural significance,2-3 hrs,Oct-Mar,"Family, Couple, Solo"
+Delhi (NCT),South Delhi (Hauz Khas),Deer Park viewpoint,Sightseeing,Viewpoint,Yes,Deer Park viewpoint - Scenic viewpoint with panoramic views,1-2 hrs,Morning/Sunset,"Family, Couple, Solo"
+Delhi (NCT),South Delhi (Hauz Khas),Diggin Cafe,Food & Dining,Food & Dining,Yes,Diggin Cafe - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),Dwarka,ISKCON Temple Dwarka,Sightseeing,Religious Site,Yes,ISKCON Temple Dwarka - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Delhi (NCT),Dwarka,Dwarka Sector 10 park,Sightseeing,Tourist Spot,No,Dwarka Sector 10 park - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Dwarka,Local Dwarka eateries,Food & Dining,Food & Dining,Yes,Local Dwarka eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),Gurugram (NCR),Cyber Hub,Sightseeing,Tourist Spot,No,Cyber Hub - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Gurugram (NCR),Kingdom of Dreams,Sightseeing,Tourist Spot,No,Kingdom of Dreams - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Gurugram (NCR),Cyber Hub restaurants,Food & Dining,Food & Dining,Yes,Cyber Hub restaurants - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),Noida (NCR),Worlds of Wonder,Sightseeing,Tourist Spot,No,Worlds of Wonder - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Noida (NCR),ISKCON Temple Noida,Sightseeing,Religious Site,Yes,ISKCON Temple Noida - Important religious and pilgrimage site,1-2 hrs,Year-round,"Family, Solo"
+Delhi (NCT),Noida (NCR),Local Noida sector markets,Food & Dining,Food & Dining,Yes,Local Noida sector markets - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"
+Delhi (NCT),Faridabad (NCR),Surajkund,Sightseeing,Tourist Spot,No,Surajkund - Local attraction,1-2 hrs,Year-round,Tourist
+Delhi (NCT),Faridabad (NCR),Badkhal Lake viewpoint,Sightseeing,Nature/Lake,Yes,Badkhal Lake viewpoint - Scenic lake destination,1-2 hrs,Year-round,"Family, Couple, Solo"
+Delhi (NCT),Faridabad (NCR),Local Faridabad eateries,Food & Dining,Food & Dining,Yes,Local Faridabad eateries - Popular local restaurant serving regional cuisine,1-2 hrs,Evening/Dinner,"Family, Couple, Solo"

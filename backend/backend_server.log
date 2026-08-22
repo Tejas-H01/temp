@@ -1,0 +1,66 @@
+INFO:     Will watch for changes in these directories: ['C:\\odooo111\\GlobeTrotter\\backend']
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:     Started reloader process [15912] using WatchFiles
+INFO:     Started server process [26492]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:55494 - "OPTIONS /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52234 - "OPTIONS /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55494 - "OPTIONS /api/cities HTTP/1.1" 200 OK
+C:\Users\sujal\AppData\Local\Programs\Python\Python314\Lib\site-packages\jwt\api_jwt.py:368: InsecureKeyLengthWarning: The HMAC key is 30 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+INFO:     127.0.0.1:55494 - "GET /api/cities HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52234 - "GET /api/dashboard HTTP/1.1" 200 OK
+C:\Users\sujal\AppData\Local\Programs\Python\Python314\Lib\site-packages\jwt\api_jwt.py:368: InsecureKeyLengthWarning: The HMAC key is 30 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+INFO:     127.0.0.1:52234 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52234 - "OPTIONS /api/trips/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55494 - "OPTIONS /api/trips/2/budget HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60951 - "OPTIONS /api/trips/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51136 - "OPTIONS /api/trips/2/budget HTTP/1.1" 200 OK
+C:\Users\sujal\AppData\Local\Programs\Python\Python314\Lib\site-packages\jwt\api_jwt.py:368: InsecureKeyLengthWarning: The HMAC key is 30 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+INFO:     127.0.0.1:55494 - "GET /api/trips/2/budget HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60951 - "GET /api/trips/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51136 - "GET /api/trips/2/budget HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60951 - "GET /api/trips/2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "GET /api/cities HTTP/1.1" 200 OK
+C:\Users\sujal\AppData\Local\Programs\Python\Python314\Lib\site-packages\jwt\api_jwt.py:368: InsecureKeyLengthWarning: The HMAC key is 30 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+INFO:     127.0.0.1:59396 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "OPTIONS /api/trips/27 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59689 - "OPTIONS /api/trips/27/budget HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "OPTIONS /api/trips/27/budget HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61225 - "OPTIONS /api/trips/27 HTTP/1.1" 200 OK
+C:\Users\sujal\AppData\Local\Programs\Python\Python314\Lib\site-packages\jwt\api_jwt.py:368: InsecureKeyLengthWarning: The HMAC key is 30 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+INFO:     127.0.0.1:61225 - "GET /api/trips/27/budget HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "GET /api/trips/27 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61225 - "GET /api/trips/27/budget HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "GET /api/trips/27 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "OPTIONS /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61225 - "OPTIONS /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59689 - "OPTIONS /api/recommendations/cities/54?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=1&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "OPTIONS /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "OPTIONS /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61225 - "OPTIONS /api/recommendations/cities/54?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=1&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "GET /api/recommendations/cities/54?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=1&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "GET /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "GET /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "GET /api/recommendations/cities/54?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=1&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "GET /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "GET /api/recommendations/cities/51?limit=3&interests=Heritage&budget_tier=budget&trip_duration_days=2&exclude_place_names=Gateway+of+India,Siddhivinayak+Temple,Anand+Stall,Sinhagad+Fort+viewpoint,Vaishali HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "OPTIONS /api/recommendations/budget/multi-city?remaining_budget=49500 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56408 - "OPTIONS /api/recommendations/budget/multi-city?remaining_budget=49500 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59396 - "POST /api/recommendations/budget/multi-city?remaining_budget=49500 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61225 - "POST /api/recommendations/budget/multi-city?remaining_budget=49500 HTTP/1.1" 200 OK
+C:\Users\sujal\AppData\Local\Programs\Python\Python314\Lib\site-packages\jwt\api_jwt.py:368: InsecureKeyLengthWarning: The HMAC key is 30 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+INFO:     127.0.0.1:61225 - "GET /api/dashboard HTTP/1.1" 200 OK
+C:\Users\sujal\AppData\Local\Programs\Python\Python314\Lib\site-packages\jwt\api_jwt.py:368: InsecureKeyLengthWarning: The HMAC key is 30 bytes long, which is below the minimum recommended length of 32 bytes for SHA256. See RFC 7518 Section 3.2.
+  decoded = self.decode_complete(
+INFO:     127.0.0.1:61225 - "GET /api/dashboard HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61225 - "GET /api/cities HTTP/1.1" 200 OK
+WARNING:  WatchFiles detected changes in 'app\schemas\recommendation.py', 'app\api\endpoints\saved_destinations.py', 'app\auth\repositories\repository.py', 'alter_db2.py', 'app\schemas\trip.py', 'app\api\endpoints\stops.py', 'app\auth\services\email_service.py', 'app\auth\services\password_service.py', 'seed_community.py', 'app\auth\services\otp_service.py', 'app\auth\services\auth_service.py', 'app\auth\services\jwt_service.py', 'app\api\endpoints\dashboard.py', 'app\api\endpoints\master.py', 'app\auth\security\permissions.py', 'app\auth\security\dependencies.py', 'app\auth\constants.py', 'app\auth\schemas\responses.py', 'app\models\__init__.py', 'app\models\master.py', 'app\main.py', 'app\auth\validators\validators.py', 'app\services\recommendation_service.py', 'app\schemas\master.py', 'app\models\trip.py', 'app\api\endpoints\trips.py', 'app\core\config.py', 'app\auth\schemas\schemas.py', 'alter_db.py', 'app\api\endpoints\community.py', 'app\api\endpoints\public.py', 'app\auth\exceptions\exceptions.py', 'app\api\endpoints\recommendations.py', 'app\schemas\community.py', 'app\auth\controllers\router.py', 'seed_data.py', 'app\models\user.py', 'app\api\endpoints\expenses.py', 'app\db\database.py'. Reloading...
+ 

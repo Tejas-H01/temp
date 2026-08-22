@@ -1,0 +1,435 @@
+id,state,city,name,category,cuisine,must_try_dish,notes
+R001,Maharashtra,Mumbai,Ashok Vada Pav,Street Food,Maharashtrian,Vada Pav,Popular vada pav stall in Dadar serving authentic crispy potato fritters in pav.
+R002,Maharashtra,Mumbai,Cannon Pav Bhaji,Street Food,Maharashtrian,Pav Bhaji,Famous butter-rich pav bhaji stall near CST station with generous ghee.
+R003,Maharashtra,Mumbai,Sardar Pav Bhaji,Street Food,Maharashtrian,Pav Bhaji,Legendary pav bhaji establishment since 1965 in Tardeo known for rich butter.
+R004,Maharashtra,Mumbai,Anand Stall,Street Food,Maharashtrian,Vada Pav,Buttery vada pav with traditional chutneys in Vile Parle.
+R005,Maharashtra,Mumbai,Gayatri Snacks,Street Food,Maharashtrian,Bombay Sandwich,Famous for classic Mumbai sandwich with potato and chutney.
+R006,Maharashtra,Pune,Vaishali,Casual Dining,Maharashtrian and South Indian,Misal Pav,Legendary restaurant since 1954 serving authentic South Indian and Maharashtrian thalis.
+R007,Maharashtra,Pune,Bedekar Misal,Street Food,Maharashtrian,Misal Pav,Iconic misal pav place with different spice levels serving authentic flavors.
+R008,Maharashtra,Pune,Vohuman Cafe,Cafe,Irani Cuisine,Cheese Omelet,Well-known Irani cafe since 1978 serving cheese omelets and Irani chai.
+R009,Maharashtra,Pune,Wadeshwar,Casual Dining,Maharashtrian,Misal Pav,Casual spot with modern take on traditional Maharashtrian dishes.
+R010,Maharashtra,Pune,Aaswad,Casual Dining,Maharashtrian,Misal Pav Thali,Authentic eatery serving traditional thalis with puri bhaji and misal pav.
+R011,Maharashtra,Nashik,Chandu Halwai,Street Food,Maharashtrian,Pav Bhaji,Popular street food establishment in Nashik market.
+R012,Maharashtra,Nashik,Sula Wines Restaurant,Casual Dining,Continental,Grilled Chicken,Restaurant near Sula Vineyards serving multi-cuisine.
+R013,Maharashtra,Nashik,Godavari Restaurant,Casual Dining,Maharashtrian,Vada Pav,Local favorite serving traditional Maharashtrian cuisine.
+R014,Maharashtra,Nashik,Annapurna Dhaba,Casual Dining,Maharashtrian,Misal Pav,Traditional dhaba-style restaurant.
+R015,Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),Bhoj Restaurant,Casual Dining,Maharashtrian,Pav Bhaji,Restaurant mentioned in Places dataset serving local food.
+R016,Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),Kailash Hotel,Casual Dining,Maharashtrian and North Indian,Biryani,Well-known restaurant in Aurangabad city.
+R017,Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),Ajanta Restaurant,Casual Dining,Maharashtrian,Vada Pav,Local favorite near Ajanta caves area.
+R018,Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),Rama Restaurant,Casual Dining,Maharashtrian,Pav Bhaji,Traditional eatery in city center.
+R019,Maharashtra,Lonavala,Adarsh Restaurant,Casual Dining,Maharashtrian,Vada Pav,Restaurant mentioned in Places dataset.
+R020,Maharashtra,Lonavala,Tiger's Point Cafe,Cafe,Indian,Chikhalwali,Casual cafe near Tiger's Point viewpoint.
+R021,Maharashtra,Lonavala,Bhaja Caves Restaurant,Casual Dining,Maharashtrian,Pav Bhaji,Local eatery near Bhaja Caves.
+R022,Maharashtra,Lonavala,Karjat Dhaba,Casual Dining,Maharashtrian,Misal Pav,Highway dhaba serving authentic food.
+R023,Maharashtra,Mahabaleshwar,Mapro Garden Restaurant,Casual Dining,Maharashtrian,Strawberry Dessert,Restaurant at Mapro Garden resort.
+R024,Maharashtra,Mahabaleshwar,Peacock Restaurant,Casual Dining,Maharashtrian,Vada Pav,Local restaurant serving regional cuisine.
+R025,Maharashtra,Mahabaleshwar,High Point Hotel,Casual Dining,Maharashtrian,Pav Bhaji,Hotel restaurant with traditional food.
+R026,Maharashtra,Mahabaleshwar,Shreeji Restaurant,Casual Dining,Maharashtrian,Misal Pav,Family-run eatery in main market.
+R027,Maharashtra,Nagpur,Haldiram's Nagpur,Casual Dining,Indian Sweets and Snacks,Kachori,Iconic sweets and snacks shop.
+R028,Maharashtra,Nagpur,Nagpur Samrat,Casual Dining,Maharashtrian,Vada Pav,Popular local restaurant.
+R029,Maharashtra,Nagpur,Shree Dhaba,Casual Dining,Maharashtrian,Misal Pav,Authentic dhaba near city center.
+R030,Maharashtra,Nagpur,Madhuri Restaurant,Casual Dining,Maharashtrian,Pav Bhaji,Well-established local eatery.
+R031,Maharashtra,Kolhapur,Padma Restaurant,Casual Dining,Maharashtrian,Misal Pav,Restaurant mentioned in Places dataset serving local cuisine.
+R032,Maharashtra,Kolhapur,Shree Krishna Vada Pav,Street Food,Maharashtrian,Vada Pav,Popular vada pav stall.
+R033,Maharashtra,Kolhapur,Rajadhani Bhojnalay,Casual Dining,Maharashtrian,Kolhapuri Mutton Curry,Traditional thali restaurant serving Kolhapuri specialty.
+R034,Maharashtra,Kolhapur,Hotel Ramakrishna,Casual Dining,Maharashtrian,Pav Bhaji,Local favorite near Rankala Lake.
+R035,Maharashtra,Alibaug,Sri Krishna Restaurant,Casual Dining,Coastal Cuisine,Seafood Curry,Restaurant mentioned in Places dataset.
+R036,Maharashtra,Alibaug,Alibaug Beach Shack,Casual Dining,Seafood,Grilled Fish,Casual beachside eatery.
+R037,Maharashtra,Alibaug,Dharma Restaurant,Casual Dining,Maharashtrian,Vada Pav,Traditional restaurant.
+R038,Maharashtra,Alibaug,Kailash Hotel,Casual Dining,Seafood,Fish Fry,Beachfront restaurant.
+R039,Rajasthan,Jaipur,Laxmi Misthan Bhandar,Casual Dining,Rajasthani,Dal Baati Churma,Legendary restaurant since 1954 serving authentic Rajasthani thali with sweets.
+R040,Rajasthan,Jaipur,Niro's Restaurant,Casual Dining,North Indian and Rajasthani,Pav Bhaji,Popular multi-cuisine restaurant on M.I. Road.
+R041,Rajasthan,Jaipur,Peacock Rooftop Restaurant,Casual Dining,Rajasthani,Gatte Ki Sabzi,Rooftop dining with traditional food.
+R042,Rajasthan,Jaipur,Handi Restaurant,Casual Dining,Rajasthani,Dal Bhatti,Traditional eatery in old city.
+R043,Rajasthan,Udaipur,Ambrai Restaurant,Casual Dining,Rajasthani,Dal Baati,Restaurant with Lake Pichola views serving local cuisine.
+R044,Rajasthan,Udaipur,Natraj Bhojnalay,Casual Dining,Rajasthani,Gatte Ki Sabzi,Traditional vegetarian restaurant.
+R045,Rajasthan,Udaipur,Sheesh Mahal Restaurant,Fine Dining,Rajasthani,Laal Maas,Fine dining establishment.
+R046,Rajasthan,Udaipur,Shree Thaal,Casual Dining,Rajasthani,Pav Bhaji,Local restaurant serving regional dishes.
+R047,Rajasthan,Jodhpur,Gypsy Restaurant,Casual Dining,Rajasthani,Ker Sangri,Restaurant mentioned in Places dataset.
+R048,Rajasthan,Jodhpur,Darikhana Restaurant,Casual Dining,Rajasthani,Khichdi,Heritage restaurant with traditional recipes.
+R049,Rajasthan,Jodhpur,On The Rocks,Casual Dining,Rajasthani,Dal Baati Churma,Restaurant on Mehrangarh Fort premises.
+R050,Rajasthan,Jodhpur,Kalyan Niwas Restaurant,Casual Dining,Rajasthani,Bajra Roti,Authentic local eatery.
+R051,Rajasthan,Jaisalmer,Trio Restaurant,Casual Dining,Rajasthani,Dal Baati,Restaurant mentioned in Places dataset.
+R052,Rajasthan,Jaisalmer,Fort View Restaurant,Casual Dining,Rajasthani,Gatte Ki Sabzi,Traditional restaurant with fort views.
+R053,Rajasthan,Jaisalmer,Mohan Bhojnalay,Casual Dining,Rajasthani,Pav Bhaji,Popular local eatery.
+R054,Rajasthan,Jaisalmer,Desert Boy Guesthouse Restaurant,Casual Dining,Rajasthani,Ker Sangri,Guesthouse serving traditional fare.
+R055,Rajasthan,Pushkar,Sixth Sense Rooftop Cafe,Cafe,Continental,Pasta,Restaurant mentioned in Places dataset with rooftop setting.
+R056,Rajasthan,Pushkar,Pushkar Palace Restaurant,Casual Dining,Rajasthani,Dal Baati,Palace restaurant with traditional food.
+R057,Rajasthan,Pushkar,Sara Cafe,Cafe,Multi-cuisine,Falafel,Hippie-friendly cafe near Brahma Temple.
+R058,Rajasthan,Pushkar,Honey and Spice Restaurant,Casual Dining,Rajasthani,Gatte Ki Sabzi,Traditional restaurant.
+R059,Rajasthan,Mount Abu,Kanha Restaurant,Casual Dining,Rajasthani,Dal Baati,Restaurant mentioned in Places dataset.
+R060,Rajasthan,Mount Abu,Maharaja Restaurant,Casual Dining,Rajasthani,Ker Sangri,Popular hill station eatery.
+R061,Rajasthan,Mount Abu,Arbuda Palace Restaurant,Fine Dining,Rajasthani,Pav Bhaji,Heritage palace restaurant.
+R062,Rajasthan,Mount Abu,Shree Thaal,Casual Dining,Rajasthani,Bajra Roti,Traditional vegetarian restaurant.
+R063,Rajasthan,Bikaner,Chotu Motu Joshi,Street Food,Rajasthani,Bhujia,Street food shop mentioned in Places dataset.
+R064,Rajasthan,Bikaner,Bikaner House,Casual Dining,Rajasthani,Dal Baati Churma,Heritage restaurant in city.
+R065,Rajasthan,Bikaner,Narayan Niwas Hotel,Casual Dining,Rajasthani,Gatte Ki Sabzi,Traditional family-run eatery.
+R066,Rajasthan,Bikaner,Ashok Restaurant,Casual Dining,Rajasthani,Ker Sangri,Local favorite serving regional cuisine.
+R067,Rajasthan,Ajmer,Elite Restaurant,Casual Dining,Rajasthani,Dal Baati,Restaurant mentioned in Places dataset.
+R068,Rajasthan,Ajmer,Hindustan Restaurant,Casual Dining,Rajasthani,Pav Bhaji,Popular local eatery.
+R069,Rajasthan,Ajmer,Subhash Restaurant,Casual Dining,Rajasthani,Misal Pav,Long-standing family restaurant.
+R070,Rajasthan,Ajmer,Shree Thaal,Casual Dining,Rajasthani,Gatte Ki Sabzi,Vegetarian restaurant.
+R071,Rajasthan,Chittorgarh,Local Rajasthani Dhaba,Casual Dining,Rajasthani,Dal Baati,Street dhaba near fort road mentioned in Places dataset.
+R072,Rajasthan,Chittorgarh,Shree Niwas Hotel,Casual Dining,Rajasthani,Ker Sangri,Hotel restaurant serving traditional food.
+R073,Rajasthan,Chittorgarh,Mehta Restaurant,Casual Dining,Rajasthani,Pav Bhaji,Long-established local eatery.
+R074,Rajasthan,Chittorgarh,Vikram Palace Hotel,Casual Dining,Rajasthani,Bajra Roti,Heritage restaurant in city.
+R075,Kerala,Kochi,Kayees Rahmathulla Cafe,Casual Dining,Kerala,Mutton Biryani,Iconic restaurant since 1948 serving signature Kayikka's Biryani.
+R076,Kerala,Kochi,Paragon Restaurant,Casual Dining,Malabar,Prawn Mango Curry,Renowned modern Malabar cuisine restaurant.
+R077,Kerala,Kochi,Gokul Ootupura,Casual Dining,South Indian,Idiyappam with Stew,Traditional Kerala breakfast spot serving appam and puttu.
+R078,Kerala,Kochi,Shibu's Puttu Kada,Street Food,Kerala,Puttu with Beef Curry,Authentic late-night street food institution.
+R079,Kerala,Munnar,Rapsy Restaurant,Casual Dining,Kerala,Fish Curry Meal,Restaurant mentioned in Places dataset.
+R080,Kerala,Munnar,Tea Garden Cafe,Cafe,South Indian,Tea and Snacks,Casual cafe overlooking tea plantations.
+R081,Kerala,Munnar,Sree Murali Restaurant,Casual Dining,Kerala,Puttu Curry,Local favorite serving traditional Kerala food.
+R082,Kerala,Munnar,Top Station Restaurant,Casual Dining,Kerala,Appam,Tourist-friendly restaurant near viewpoint.
+R083,Kerala,Alleppey,Chakara Restaurant,Casual Dining,Kerala,Fish Curry,Restaurant mentioned in Places dataset.
+R084,Kerala,Alleppey,Alleppey Prince,Casual Dining,Kerala,Prawn Sadhya,Traditional restaurant serving Kerala meals.
+R085,Kerala,Alleppey,Kottakkal Restaurant,Casual Dining,Kerala,Puttu Curry,Local eatery serving authentic backwater cuisine.
+R086,Kerala,Alleppey,Dreamland Cafe,Cafe,South Indian,Coffee and Snacks,Casual waterfront cafe.
+R087,Kerala,Thekkady,Ebony's Restaurant,Casual Dining,Kerala,Fish Curry Meal,Restaurant mentioned in Places dataset.
+R088,Kerala,Thekkady,Periyar House Restaurant,Casual Dining,Kerala,Appam Stew,Traditional Kerala food restaurant.
+R089,Kerala,Thekkady,Kumaran Restaurant,Casual Dining,Kerala,Puttu Curry,Local favorite serving spice plantation regional food.
+R090,Kerala,Thekkady,Spice Garden Restaurant,Casual Dining,Kerala,Biryani,Restaurant with spice garden experience.
+R091,Kerala,Wayanad,Local Cafe,Cafe,South Indian,Coffee and Tea,Local eatery mentioned in Places dataset.
+R092,Kerala,Wayanad,Wayanad Heights Restaurant,Casual Dining,Kerala,Puttu Curry,Restaurant on hill station.
+R093,Kerala,Wayanad,Leaf Restaurant,Casual Dining,Kerala,Fish Curry Meal,Organic food restaurant.
+R094,Kerala,Wayanad,Kaadumkadasthan Cafe,Cafe,Kerala,Tea and Snacks,Local village cafe.
+R095,Kerala,Kovalam,Waves Restaurant,Casual Dining,Seafood,Grilled Fish,Restaurant mentioned in Places dataset.
+R096,Kerala,Kovalam,Ashoka Beach Restaurant,Casual Dining,Kerala,Fish Curry,Beach shack serving seafood.
+R097,Kerala,Kovalam,Leela Restaurant,Casual Dining,Kerala,Prawn Biryani,Beachfront eatery.
+R098,Kerala,Kovalam,Samudra Restaurant,Casual Dining,Seafood,Crab Masala,Seafood-focused restaurant.
+R099,Kerala,Kumarakom,Lakeside Restaurants,Casual Dining,Kerala,Fish Curry Meal,Restaurant mentioned in Places dataset.
+R100,Kerala,Kumarakom,Vembanad Lake Resort,Casual Dining,Kerala,Puttu Curry,Resort restaurant with backwater views.
+R101,Kerala,Kumarakom,Bird Sanctuary Cafe,Cafe,South Indian,Coffee,Casual cafe near sanctuary.
+R102,Kerala,Kumarakom,Kodathery Restaurant,Casual Dining,Kerala,Appam,Traditional restaurant.
+R103,Kerala,Varkala,Clafouti Cafe,Cafe,Continental,Quiche,Cafe mentioned in Places dataset.
+R104,Kerala,Varkala,Varkala Restaurant,Casual Dining,Kerala,Fish Curry Meal,Cliff-top restaurant.
+R105,Kerala,Varkala,Leela Restaurant,Casual Dining,Kerala,Puttu Curry,Beachfront eatery.
+R106,Kerala,Varkala,Temple Cafe,Cafe,South Indian,Coffee and Snacks,Cafe near Janardana Temple.
+R107,Kerala,Kozhikode,Paragon Restaurant,Casual Dining,Malabar,Biryani,Legendary restaurant serving Malabar cuisine.
+R108,Kerala,Kozhikode,Kozhikode Hotel,Casual Dining,Kerala,Puttu with Curry,Traditional hotel-restaurant.
+R109,Kerala,Kozhikode,Kallayi Restaurant,Casual Dining,Seafood,Surmai Fry,Seafood specialist.
+R110,Kerala,Kozhikode,Sreedharam Restaurant,Casual Dining,Kerala,Appam Stew,Local favorite.
+R111,Tamil Nadu,Chennai,Murugan Idli Shop,Street Food,South Indian,Idli,Legendary breakfast spot serving soft idlis and dosas.
+R112,Tamil Nadu,Chennai,Ratna Cafe,Casual Dining,South Indian,Dosa,Historic cafe serving traditional South Indian fare.
+R113,Tamil Nadu,Chennai,Vasantha Bhavan,Casual Dining,South Indian,Idli Sambar,Classic vegetarian restaurant.
+R114,Tamil Nadu,Chennai,Annalakshmi Restaurant,Casual Dining,South Indian,Appam,Traditional restaurant.
+R115,Tamil Nadu,Ooty,Nahar's Nilgiris Bakery,Bakery,Bakery Items,Fruit Cake,Bakery mentioned in Places dataset.
+R116,Tamil Nadu,Ooty,Ooty Savoy Hotel,Casual Dining,South Indian,Dosa,Hill station restaurant.
+R117,Tamil Nadu,Ooty,Tea Factory Cafe,Cafe,South Indian,Tea and Biscuits,Casual tea garden cafe.
+R118,Tamil Nadu,Ooty,Government Museum Cafe,Cafe,South Indian,Snacks,Museum cafe.
+R119,Tamil Nadu,Madurai,Sree Sabarees,Casual Dining,South Indian,Puttu Kulambu,Restaurant mentioned in Places dataset.
+R120,Tamil Nadu,Madurai,Arjun Hotel,Casual Dining,Tamil Nadu,Misal Pav,Traditional South Indian eatery.
+R121,Tamil Nadu,Madurai,Murugan Idli,Street Food,South Indian,Idli,Branch of famous Chennai restaurant.
+R122,Tamil Nadu,Madurai,Aaplabhojan Restaurant,Casual Dining,Tamil Nadu,Chukli,Local favorite.
+R123,Tamil Nadu,Kodaikanal,Cloud Street Cafe,Cafe,Continental,Pasta,Cafe mentioned in Places dataset.
+R124,Tamil Nadu,Kodaikanal,Hotel Lake View,Casual Dining,South Indian,Dosa,Lake-side restaurant.
+R125,Tamil Nadu,Kodaikanal,Tea Garden Cafe,Cafe,South Indian,Tea and Snacks,Hill station cafe.
+R126,Tamil Nadu,Kodaikanal,Sambar Restaurant,Casual Dining,South Indian,Sambar Rice,Local eatery.
+R127,Tamil Nadu,Rameswaram,Ganesh Mess,Casual Dining,South Indian,Rice and Sambar,Restaurant mentioned in Places dataset.
+R128,Tamil Nadu,Rameswaram,Sri Sarvagnan Hotel,Casual Dining,South Indian,Idli Sambar,Hotel serving temple town food.
+R129,Tamil Nadu,Rameswaram,Ramakrishna Restaurant,Casual Dining,South Indian,Dosa,Local favorite.
+R130,Tamil Nadu,Rameswaram,Hotel Aruna,Casual Dining,South Indian,Puttu Kulambu,Traditional eatery.
+R131,Tamil Nadu,Kanyakumari,Sangam Restaurant,Casual Dining,South Indian,Fish Curry,Restaurant mentioned in Places dataset.
+R132,Tamil Nadu,Kanyakumari,Hotel Kerala,Casual Dining,South Indian,Appam,Hotel restaurant.
+R133,Tamil Nadu,Kanyakumari,Triveni Restaurant,Casual Dining,South Indian,Dosa,Cape-side eatery.
+R134,Tamil Nadu,Kanyakumari,Srivari Hotel,Casual Dining,South Indian,Idli,Local restaurant.
+R135,Tamil Nadu,Mahabalipuram,Moonrakers Restaurant,Casual Dining,Seafood,Grilled Fish,Restaurant mentioned in Places dataset.
+R136,Tamil Nadu,Mahabalipuram,Seashell Restaurant,Casual Dining,Seafood,Crab Masala,Beach restaurant.
+R137,Tamil Nadu,Mahabalipuram,Le Pondy Restaurant,Casual Dining,Continental,Pasta,Upscale beachfront dining.
+R138,Tamil Nadu,Mahabalipuram,Mamalla Restaurant,Casual Dining,South Indian,Fish Curry,Local favorite.
+R139,Tamil Nadu,Coimbatore,Annapoorna Restaurant,Casual Dining,South Indian,Dosa,Restaurant mentioned in Places dataset.
+R140,Tamil Nadu,Coimbatore,Murugan Idli,Street Food,South Indian,Idli,Branch of famous Chennai chain.
+R141,Tamil Nadu,Coimbatore,Saravana Bhavan,Casual Dining,South Indian,Uttapam,Vegetarian restaurant chain.
+R142,Tamil Nadu,Coimbatore,Hotel Indra,Casual Dining,South Indian,Sambar Rice,Traditional eatery.
+R143,Tamil Nadu,Thanjavur,Sathars Restaurant,Casual Dining,Tamil Nadu,Chicken Biryani,Restaurant mentioned in Places dataset.
+R144,Tamil Nadu,Thanjavur,Hotel Chola,Casual Dining,Tamil Nadu,Dosa,Traditional restaurant.
+R145,Tamil Nadu,Thanjavur,Sri Krishna Hotel,Casual Dining,South Indian,Puttu Kulambu,Local favorite.
+R146,Tamil Nadu,Thanjavur,Sangeetha Restaurant,Casual Dining,South Indian,Idli,Vegetarian eatery.
+R147,Karnataka,Bangalore,MTR (Mavalli Tiffin Room),Casual Dining,South Indian,Rava Idli,Iconic heritage restaurant since 1924 serving Rava Idli and Masala Dosa.
+R148,Karnataka,Bangalore,Café Coffee Day,Cafe,Cafe,Coffee and Pastries,Modern cafe chain.
+R149,Karnataka,Bangalore,Vidyarthi Bhavan,Casual Dining,South Indian,Dosa,Historic restaurant serving South Indian fare.
+R150,Karnataka,Bangalore,Tiffin Room (CTR),Casual Dining,South Indian,Masala Dosa,Heritage restaurant in Malleshwaram.
+R151,Karnataka,Mysore,Vinayaka Mylari,Street Food,South Indian,Dosa,Famous dosa shop mentioned in Places dataset.
+R152,Karnataka,Mysore,Hotel Mayura,Casual Dining,South Indian,Idli,Hotel restaurant.
+R153,Karnataka,Mysore,Hari Rao's Restaurant,Casual Dining,South Indian,Puttu,Traditional eatery.
+R154,Karnataka,Mysore,Sangeetha Restaurant,Casual Dining,South Indian,Uppittu,Vegetarian restaurant.
+R155,Karnataka,Coorg,Coorg Cuisine.Com,Casual Dining,Kodagu Cuisine,Pork Curry,Restaurant mentioned in Places dataset serving local Coorg food.
+R156,Karnataka,Coorg,Mercara Mess,Casual Dining,Kodagu,Chicken Fry,Traditional Coorg restaurant.
+R157,Karnataka,Coorg,Taj Orchid Restaurant,Casual Dining,Kodagu,Pulao,Hotel restaurant.
+R158,Karnataka,Coorg,Malabar Hill Restaurant,Casual Dining,South Indian,Dosa,Local favorite.
+R159,Karnataka,Hampi,Mango Tree Restaurant,Casual Dining,South Indian,Dosa,Restaurant mentioned in Places dataset.
+R160,Karnataka,Hampi,Sunny Restaurant,Casual Dining,South Indian,Idli Sambar,Popular traveler spot.
+R161,Karnataka,Hampi,Laxmi Restaurant,Casual Dining,South Indian,Rice and Sambar,Local favorite.
+R162,Karnataka,Hampi,Goan Corner Restaurant,Casual Dining,Seafood,Fish Curry,Goan food specialist.
+R163,Karnataka,Gokarna,Namaste Cafe,Cafe,Continental,Pasta,Cafe mentioned in Places dataset.
+R164,Karnataka,Gokarna,Gokarna International,Casual Dining,Continental,Pizza,Beach shack.
+R165,Karnataka,Gokarna,Dolphin Shack,Casual Dining,Seafood,Grilled Fish,Beachfront eatery.
+R166,Karnataka,Gokarna,Om Beach Restaurant,Casual Dining,South Indian,Dosa,Beach restaurant.
+R167,Karnataka,Chikmagalur,Coffee Bean Restaurant,Casual Dining,South Indian,Dosa,Restaurant mentioned in Places dataset.
+R168,Karnataka,Chikmagalur,Mountain Shade Cafe,Cafe,South Indian,Coffee,Coffee plantation cafe.
+R169,Karnataka,Chikmagalur,Hotel Ashoka,Casual Dining,South Indian,Idli,Hotel restaurant.
+R170,Karnataka,Chikmagalur,Kallada Restaurant,Casual Dining,South Indian,Rice and Curry,Local eatery.
+R171,Karnataka,Udupi,Mitra Samaj Bhojnalay,Casual Dining,South Indian,Dosa,Restaurant mentioned in Places dataset.
+R172,Karnataka,Udupi,Shree Krishna Hotel,Casual Dining,South Indian,Idli,Traditional udipi restaurant.
+R173,Karnataka,Udupi,Sri Venkateshwara Restaurant,Casual Dining,South Indian,Puttu Kulambu,Vegetarian eatery.
+R174,Karnataka,Udupi,Hotel Maruthi,Casual Dining,South Indian,Uppittu,Family restaurant.
+R175,Karnataka,Badami,Local Badami Dhaba,Casual Dining,South Indian,Dosa,Street dhaba mentioned in Places dataset.
+R176,Karnataka,Badami,Hotel Badami,Casual Dining,South Indian,Idli Sambar,Hotel restaurant.
+R177,Karnataka,Badami,Chalukya Restaurant,Casual Dining,South Indian,Rice Meal,Heritage restaurant.
+R178,Karnataka,Badami,Sri Krishna Hotel,Casual Dining,South Indian,Sambar,Local favorite.
+R179,Karnataka,Vijayapura (Bijapur),Kamat Restaurant,Casual Dining,North Karnataka,Biryani,Restaurant mentioned in Places dataset.
+R180,Karnataka,Vijayapura (Bijapur),Hotel Ashoka,Casual Dining,North Karnataka,Puttu,Hotel restaurant.
+R181,Karnataka,Vijayapura (Bijapur),Chandini Hotel,Casual Dining,North Karnataka,Roti,Traditional eatery.
+R182,Karnataka,Vijayapura (Bijapur),Balaghat Restaurant,Casual Dining,North Karnataka,Rice Meal,Local favorite.
+R183,Uttar Pradesh,Agra,Pinch of Spice,Fine Dining,Mughlai,Chicken Tikka,Restaurant mentioned in Places dataset serving authentic Mughlai cuisine.
+R184,Uttar Pradesh,Agra,Peshawri,Fine Dining,Mughlai,Tandoori Chicken,ITC Mughal restaurant serving royal Mughlai recipes.
+R185,Uttar Pradesh,Agra,Dasaprakash,Casual Dining,South Indian,Dosa,Multi-cuisine restaurant.
+R186,Uttar Pradesh,Agra,Shankara Restaurant,Casual Dining,North Indian,Dal Makhani,Traditional restaurant.
+R187,Uttar Pradesh,Varanasi,Blue Lassi Shop,Street Food,Uttar Pradesh,Lassi,Iconic street food shop since 1951 serving traditional lassi varieties.
+R188,Uttar Pradesh,Varanasi,Baati Chokha Restaurant,Casual Dining,Bihari and Uttar Pradesh,Baati Chokha,Authentic restaurant serving Bihari comfort food.
+R189,Uttar Pradesh,Varanasi,Kashi Chaat Bhandar,Street Food,Uttar Pradesh,Chaat,Traditional chaat specialist.
+R190,Uttar Pradesh,Varanasi,Deena Chaat and Lassi,Street Food,Uttar Pradesh,Chaat,Famous chaat and lassi stall.
+R191,Uttar Pradesh,Lucknow,Tunday Kababi,Casual Dining,Awadhi,Galauti Kebab,Restaurant mentioned in Places dataset serving Awadhi specialty.
+R192,Uttar Pradesh,Lucknow,Iqbaals Biryani,Casual Dining,Awadhi,Biryani,Famous biryani restaurant.
+R193,Uttar Pradesh,Lucknow,Dastarkhwan,Casual Dining,Awadhi,Shami Kebab,Traditional Awadhi cuisine.
+R194,Uttar Pradesh,Lucknow,Shahnawaz Restaurant,Casual Dining,Mughlai,Dal Makhani,Mughlai restaurant.
+R195,Uttar Pradesh,Mathura,Brijwasi Sweets,Dessert,Indian Sweets,Pedha,Sweet shop mentioned in Places dataset serving local mithai.
+R196,Uttar Pradesh,Mathura,Radha Krishna Temple Prasad,Street Food,Vegetarian,Kheer Puri,Temple-offered traditional prasad.
+R197,Uttar Pradesh,Mathura,Gupta Bhojnalay,Casual Dining,North Indian,Pav Bhaji,Local favorite.
+R198,Uttar Pradesh,Mathura,Agra Restaurant,Casual Dining,North Indian,Dal Makhani,Traditional restaurant.
+R199,Uttar Pradesh,Vrindavan,Local Prasad Shops,Street Food,Vegetarian,Khir Puri,Street food mentioned in Places dataset serving temple sweets.
+R200,Uttar Pradesh,Vrindavan,Yamuna Bank Restaurant,Casual Dining,North Indian,Biryani,Restaurant with riverside setting.
+R201,Uttar Pradesh,Vrindavan,Shree Krishna Hotel,Casual Dining,North Indian,Pav Bhaji,Local eatery.
+R202,Uttar Pradesh,Vrindavan,Govind Vegetarian Restaurant,Casual Dining,Vegetarian North Indian,Dal Baati,Vegetarian specialist.
+R203,Uttar Pradesh,Ayodhya,Local Awadhi Eateries,Casual Dining,Awadhi,Galauti Kebab,Local restaurants mentioned in Places dataset.
+R204,Uttar Pradesh,Ayodhya,Ram's Dhaba,Casual Dining,North Indian,Pav Bhaji,Traditional dhaba.
+R205,Uttar Pradesh,Ayodhya,Bhojnalaya,Casual Dining,North Indian,Dal Makhani,Family restaurant.
+R206,Uttar Pradesh,Ayodhya,Sharma Restaurant,Casual Dining,North Indian,Biryani,Local favorite.
+R207,Uttar Pradesh,Prayagraj (Allahabad),Local Prayagraj Eateries,Casual Dining,North Indian,Chaat,Street eateries mentioned in Places dataset.
+R208,Uttar Pradesh,Prayagraj (Allahabad),Triveni Sangam Cafe,Cafe,North Indian,Samosa,Cafe by river confluence.
+R209,Uttar Pradesh,Prayagraj (Allahabad),Allahabad Palace Hotel,Casual Dining,North Indian,Biryani,Heritage restaurant.
+R210,Uttar Pradesh,Prayagraj (Allahabad),Sharma Restaurant,Casual Dining,North Indian,Dal Makhani,Local eatery.
+R211,Uttar Pradesh,Jhansi,Local Bundelkhandi Dhaba,Casual Dining,Bundelkhandi,Biryani,Street dhaba mentioned in Places dataset.
+R212,Uttar Pradesh,Jhansi,Jhansi Hotel,Casual Dining,North Indian,Pav Bhaji,Traditional restaurant.
+R213,Uttar Pradesh,Jhansi,Rani Restaurant,Casual Dining,North Indian,Dal Makhani,Local favorite.
+R214,Uttar Pradesh,Jhansi,Rani Mahal Cafe,Cafe,North Indian,Samosa,Fort-area cafe.
+R215,Uttar Pradesh,Kushinagar,Local Buddhist Circuit Eateries,Casual Dining,North Indian,Veg Fried Rice,Restaurants mentioned in Places dataset.
+R216,Uttar Pradesh,Kushinagar,Ashoka Hotel,Casual Dining,North Indian,Dal Makhani,Hotel restaurant.
+R217,Uttar Pradesh,Kushinagar,Buddhist Temple Cafe,Cafe,Vegetarian,Noodles,Temple area cafe.
+R218,Uttar Pradesh,Kushinagar,Peace Restaurant,Casual Dining,North Indian,Biryani,Pilgrimage-area eatery.
+R219,Himachal Pradesh,Manali,Johnson's Cafe,Cafe,Continental,Pasta,Cafe mentioned in Places dataset.
+R220,Himachal Pradesh,Manali,Chopsticks Restaurant,Casual Dining,Asian,Momos,Popular noodle restaurant.
+R221,Himachal Pradesh,Manali,Pizza House,Casual Dining,Continental,Pizza,Hill station favorite.
+R222,Himachal Pradesh,Manali,Mahesh Restaurant,Casual Dining,Himachali,Siddu,Local cuisine specialist.
+R223,Himachal Pradesh,Shimla,Cafe Simla Times,Cafe,Continental,Tea and Pastries,Cafe mentioned in Places dataset.
+R224,Himachal Pradesh,Shimla,Ashiana Restaurant,Casual Dining,Himachali,Madhu Aloo,Traditional restaurant.
+R225,Himachal Pradesh,Shimla,Indian Coffee House,Cafe,South Indian,Dosa,Heritage cafe.
+R226,Himachal Pradesh,Shimla,Beachview Restaurant,Casual Dining,Continental,Grilled Chicken,Hill station restaurant.
+R227,Himachal Pradesh,Dharamshala,Tibet Kitchen,Casual Dining,Tibetan,Momos,Restaurant mentioned in Places dataset.
+R228,Himachal Pradesh,Dharamshala,Lung Ta Restaurant,Casual Dining,Tibetan,Thukpa,Tibetan cuisine specialist.
+R229,Himachal Pradesh,Dharamshala,Bhagsu Falls Cafe,Cafe,Continental,Pasta,Waterfall-area cafe.
+R230,Himachal Pradesh,Dharamshala,McLeod Ganj Cafe,Cafe,Multi-cuisine,Coffee,Popular traveler cafe.
+R231,Himachal Pradesh,Kasol,Moon Dance Cafe,Cafe,Continental,Pasta,Cafe mentioned in Places dataset.
+R232,Himachal Pradesh,Kasol,Evergreen Cafe,Cafe,Continental,Pizza,Popular backpacker cafe.
+R233,Himachal Pradesh,Kasol,Italian Corner,Casual Dining,Continental,Risotto,Italian specialist.
+R234,Himachal Pradesh,Kasol,Rainbow Restaurant,Casual Dining,Multi-cuisine,Momos,Local favorite.
+R235,Himachal Pradesh,Dalhousie,Kwality Restaurant,Casual Dining,North Indian,Chikhalwali,Restaurant mentioned in Places dataset.
+R236,Himachal Pradesh,Dalhousie,Aroma Restaurant,Casual Dining,Multi-cuisine,Tandoori Chicken,Hill station eatery.
+R237,Himachal Pradesh,Dalhousie,Snowdrop Cafe,Cafe,Continental,Tea and Pastries,Hill station cafe.
+R238,Himachal Pradesh,Dalhousie,Palace Hotel Restaurant,Casual Dining,North Indian,Dal Makhani,Heritage restaurant.
+R239,Himachal Pradesh,Kullu,Monal Restaurant,Casual Dining,Himachali,Siddu,Restaurant mentioned in Places dataset.
+R240,Himachal Pradesh,Kullu,Himalayan Restaurant,Casual Dining,Himachali,Rajma Chawal,Local specialty restaurant.
+R241,Himachal Pradesh,Kullu,Riverside Cafe,Cafe,Multi-cuisine,Coffee,Valley-side cafe.
+R242,Himachal Pradesh,Kullu,Happy Chef Restaurant,Casual Dining,North Indian,Biryani,Popular local eatery.
+R243,Himachal Pradesh,Spiti Valley,Local Spiti Homestays,Casual Dining,Tibetan,Momos,Traditional homestay meals mentioned in Places dataset.
+R244,Himachal Pradesh,Spiti Valley,Kaza Hotel Restaurant,Casual Dining,Tibetan,Thukpa,Village-center restaurant.
+R245,Himachal Pradesh,Spiti Valley,Spiti Kitchen,Casual Dining,Tibetan,Barley Bread,Traditional kitchen.
+R246,Himachal Pradesh,Spiti Valley,Chandratal Cafe,Cafe,Tibetan,Tea,High-altitude cafe.
+R247,Himachal Pradesh,Chail,Palace Restaurant Chail,Casual Dining,North Indian,Tandoori Chicken,Restaurant mentioned in Places dataset.
+R248,Himachal Pradesh,Chail,Hill View Restaurant,Casual Dining,North Indian,Biryani,Highland restaurant.
+R249,Himachal Pradesh,Chail,Palace Cafe,Cafe,Continental,Tea and Pastries,Palace-area cafe.
+R250,Himachal Pradesh,Chail,Orchid Restaurant,Casual Dining,Multi-cuisine,Dal Makhani,Local favorite.
+R251,Himachal Pradesh,Bir Billing,Garden Cafe Bir,Cafe,Continental,Pasta,Cafe mentioned in Places dataset.
+R252,Himachal Pradesh,Bir Billing,Paraglider Cafe,Cafe,Continental,Coffee,Adventure sports cafe.
+R253,Himachal Pradesh,Bir Billing,Bir Kitchen,Casual Dining,Himachali,Siddu,Traditional restaurant.
+R254,Himachal Pradesh,Bir Billing,Billing View Restaurant,Casual Dining,North Indian,Tandoori Chicken,Paragliding-site restaurant.
+R255,West Bengal,Kolkata,Peter Cat,Casual Dining,Continental,Chelo Kebab,Restaurant mentioned in Places dataset serving Calcutta's signature dish.
+R256,West Bengal,Kolkata,Zaranj,Casual Dining,Mughlai,Biryani,Traditional Mughlai restaurant.
+R257,West Bengal,Kolkata,Bhim Chandra Nag Mandal,Street Food,Bengali,Jalebi,Historic sweet shop.
+R258,West Bengal,Kolkata,Kathleen Baker,Bakery,Bakery,Bread and Pastries,Heritage bakery.
+R259,West Bengal,Darjeeling,Kunga Restaurant,Casual Dining,Tibetan,Momos,Restaurant mentioned in Places dataset.
+R260,West Bengal,Darjeeling,Glenary's Restaurant,Casual Dining,Continental,Steak,Heritage restaurant and bookshop.
+R261,West Bengal,Darjeeling,Potala Fresh Cafe,Cafe,Tibetan,Tea,Local Tibetan cafe.
+R262,West Bengal,Darjeeling,Soniam Restaurant,Casual Dining,Tibetan,Thukpa,Tibetan cuisine.
+R263,West Bengal,Digha,Local Digha Seafood Shacks,Street Food,Seafood,Grilled Fish,Beach shacks mentioned in Places dataset.
+R264,West Bengal,Digha,Sonar Bangla Hotel,Casual Dining,Bengali,Fish Curry,Beach hotel restaurant.
+R265,West Bengal,Digha,Sea Shell Restaurant,Casual Dining,Seafood,Tandoori Fish,Beachfront eatery.
+R266,West Bengal,Digha,Digha Palace Restaurant,Casual Dining,Bengali,Luchi Alur Dom,Beach restaurant.
+R267,West Bengal,Kalimpong,Kalimpong Park Restaurant,Casual Dining,Bengali,Momos,Restaurant mentioned in Places dataset.
+R268,West Bengal,Kalimpong,Morgan House Restaurant,Casual Dining,Continental,Grilled Meat,Historic house restaurant.
+R269,West Bengal,Kalimpong,Deki Cafe,Cafe,Tibetan,Tea,Local cafe.
+R270,West Bengal,Kalimpong,Bungalow Restaurant,Casual Dining,Bengali,Biryani,Heritage bungalow restaurant.
+R271,West Bengal,Siliguri,Khana Khazana Restaurant,Casual Dining,North Indian and Bengali,Biryani,Restaurant mentioned in Places dataset.
+R272,West Bengal,Siliguri,Trident Restaurant,Casual Dining,Multi-cuisine,Tandoori Chicken,Hotel restaurant.
+R273,West Bengal,Siliguri,Gorkha Kitchen,Casual Dining,Nepali,Momos,Local Nepali cuisine specialist.
+R274,West Bengal,Siliguri,Bengal Restaurant,Casual Dining,Bengali,Fish Curry,Traditional eatery.
+R275,West Bengal,Shantiniketan,Local Bengali Eateries,Casual Dining,Bengali,Luchi Sabji,Street eateries mentioned in Places dataset.
+R276,West Bengal,Shantiniketan,Shantiniketan Hotel,Casual Dining,Bengali,Fish Curry,Town-center restaurant.
+R277,West Bengal,Shantiniketan,Visva Cafe,Cafe,Bengali,Tea and Snacks,Campus area cafe.
+R278,West Bengal,Shantiniketan,Poet's Kitchen,Casual Dining,Bengali,Biryani,Heritage restaurant.
+R279,West Bengal,Murshidabad,Local Murshidabad Eateries,Casual Dining,Bengali,Biryani,Street eateries mentioned in Places dataset.
+R280,West Bengal,Murshidabad,Nawab Hotel,Casual Dining,Mughlai,Biryani,Heritage Nawab-era restaurant.
+R281,West Bengal,Murshidabad,Hazarduari Cafe,Cafe,Bengali,Tea,Palace-area cafe.
+R282,West Bengal,Murshidabad,Silk Route Restaurant,Casual Dining,Mughlai,Kebab,Historic-area restaurant.
+R283,West Bengal,Sundarbans,Local Resort Restaurants,Casual Dining,Bengali and Seafood,Fish Curry,Resort restaurants mentioned in Places dataset.
+R284,West Bengal,Sundarbans,Tiger Camp Restaurant,Casual Dining,Seafood,Grilled Fish,Sundarbans lodge restaurant.
+R285,West Bengal,Sundarbans,Mangrove Cafe,Cafe,Bengali,Tea and Snacks,Reserve-area cafe.
+R286,West Bengal,Sundarbans,Riverside Kitchen,Casual Dining,Bengali,Luchi Biryani,Lodge restaurant.
+R287,West Bengal,Mirik,Local Mirik Tea-Garden Cafes,Cafe,Tea,Tea and Snacks,Tea garden cafes mentioned in Places dataset.
+R288,West Bengal,Mirik,Mirik Hotel,Casual Dining,Bengali,Fish Curry,Lake-side restaurant.
+R289,West Bengal,Mirik,Tea Garden Homestay,Casual Dining,Bengali,Biryani,Homestay meals.
+R290,West Bengal,Mirik,Sunrise Cafe,Cafe,Bengali,Tea and Pastries,Lake-view cafe.
+R291,Punjab,Amritsar,Kesar Da Dhaba,Casual Dining,Punjabi,Butter Chicken,Restaurant mentioned in Places dataset serving Punjabi classics.
+R292,Punjab,Amritsar,Bharawan Da Dhaba,Casual Dining,Punjabi,Tandoori Chicken,Traditional dhaba.
+R293,Punjab,Amritsar,Crystal Restaurant,Casual Dining,Punjabi,Chole Bhature,Golden Temple area restaurant.
+R294,Punjab,Amritsar,Sher-e-Punjab,Casual Dining,Punjabi,Kulcha,Local favorite.
+R295,Punjab,Chandigarh,Pal Dhaba,Casual Dining,Punjabi,Butter Chicken,Restaurant mentioned in Places dataset.
+R296,Punjab,Chandigarh,Sakoon Restaurant,Casual Dining,Multi-cuisine,Dal Makhani,Multi-cuisine restaurant.
+R297,Punjab,Chandigarh,Sector 35 Street Food,Street Food,Punjabi,Chole Bhature,Popular street food hub.
+R298,Punjab,Chandigarh,Indian Coffee House,Cafe,Punjabi,Kulcha Chole,Heritage cafe.
+R299,Punjab,Ludhiana,Local Ludhiana Dhaba,Casual Dining,Punjabi,Tandoori Chicken,Street dhaba mentioned in Places dataset.
+R300,Punjab,Ludhiana,Nirmal Restaurant,Casual Dining,Punjabi,Butter Chicken,Traditional restaurant.
+R301,Punjab,Ludhiana,Janta Restaurant,Casual Dining,Punjabi,Chole Bhature,Popular local eatery.
+R302,Punjab,Ludhiana,Rose Garden Cafe,Cafe,Multi-cuisine,Coffee,Rose garden area cafe.
+R303,Punjab,Patiala,Baba Ka Dhaba,Casual Dining,Punjabi,Butter Chicken,Traditional dhaba.
+R304,Punjab,Patiala,Tandoor Palace,Casual Dining,Punjabi,Tandoori Chicken,Heritage restaurant.
+R305,Punjab,Patiala,Amar Hotel,Casual Dining,Punjabi,Dal Makhani,Local favorite.
+R306,Punjab,Patiala,Palace Restaurant,Casual Dining,Punjabi,Kulcha,Qila-area restaurant.
+R307,Punjab,Jalandhar,Local Jalandhar Eateries,Casual Dining,Punjabi,Tandoori Chicken,Street eateries mentioned in Places dataset.
+R308,Punjab,Jalandhar,Radha Swami Restaurant,Casual Dining,Punjabi,Butter Chicken,Traditional restaurant.
+R309,Punjab,Jalandhar,Sharma Restaurant,Casual Dining,Punjabi,Chole Bhature,Local eatery.
+R310,Punjab,Jalandhar,Rama Restaurant,Casual Dining,Punjabi,Dal Makhani,Family restaurant.
+R311,Punjab,Anandpur Sahib,Gurudwara Langar,Street Food,Punjabi,Langar Meal,Community kitchen mentioned in Places dataset serving free meals.
+R312,Punjab,Anandpur Sahib,Anand Restaurant,Casual Dining,Punjabi,Tandoori Chicken,Town restaurant.
+R313,Punjab,Anandpur Sahib,Virasat Cafe,Cafe,Punjabi,Tea,Heritage-area cafe.
+R314,Punjab,Anandpur Sahib,Sikh Kitchen,Casual Dining,Punjabi,Butter Chicken,Traditional eatery.
+R315,Punjab,Bathinda,Local Bathinda Dhaba,Casual Dining,Punjabi,Tandoori Chicken,Street dhaba mentioned in Places dataset.
+R316,Punjab,Bathinda,Khurana Restaurant,Casual Dining,Punjabi,Butter Chicken,Traditional restaurant.
+R317,Punjab,Bathinda,Qila Hotel,Casual Dining,Punjabi,Chole Bhature,Fort-area restaurant.
+R318,Punjab,Bathinda,Park Restaurant,Casual Dining,Punjabi,Dal Makhani,Local favorite.
+R319,Punjab,Kapurthala,Local Kapurthala Eateries,Casual Dining,Punjabi,Tandoori Chicken,Street eateries mentioned in Places dataset.
+R320,Punjab,Kapurthala,Maurya Palace Restaurant,Casual Dining,Punjabi,Butter Chicken,Palace-area restaurant.
+R321,Punjab,Kapurthala,Sardar Restaurant,Casual Dining,Punjabi,Chole Bhature,Traditional eatery.
+R322,Punjab,Kapurthala,Shahzadi Restaurant,Casual Dining,Punjabi,Kulcha,Local favorite.
+R323,Punjab,Pathankot,Local Pathankot Dhaba,Casual Dining,Punjabi,Tandoori Chicken,Street dhaba mentioned in Places dataset.
+R324,Punjab,Pathankot,Railway Station Restaurant,Casual Dining,Punjabi,Butter Chicken,Station area restaurant.
+R325,Punjab,Pathankot,Bagh Restaurant,Casual Dining,Punjabi,Chole Bhature,Local eatery.
+R326,Punjab,Pathankot,Fateh Restaurant,Casual Dining,Punjabi,Dal Makhani,Traditional restaurant.
+R327,Uttarakhand,Rishikesh,Chotiwala,Street Food,North Indian,Puris,Restaurant mentioned in Places dataset serving street food and tea.
+R328,Uttarakhand,Rishikesh,Ramakrishna Restaurant,Casual Dining,North Indian,Aloo Puri,Ghat-side restaurant.
+R329,Uttarakhand,Rishikesh,Bistro Nirvana,Casual Dining,Continental,Pasta,Traveler-friendly restaurant.
+R330,Uttarakhand,Rishikesh,High Monkey Cafe,Cafe,Multi-cuisine,Coffee,Riverside cafe.
+R331,Uttarakhand,Nainital,Sakley's Restaurant,Casual Dining,North Indian,Tandoori Chicken,Restaurant mentioned in Places dataset.
+R332,Uttarakhand,Nainital,Naini Lakeside Restaurant,Casual Dining,North Indian,Dal Makhani,Lake-view restaurant.
+R333,Uttarakhand,Nainital,Mall Road Cafe,Cafe,Continental,Tea and Pastries,Shopping area cafe.
+R334,Uttarakhand,Nainital,Amargarh Restaurant,Casual Dining,North Indian,Biryani,Local favorite.
+R335,Uttarakhand,Mussoorie,Landour Bakehouse,Bakery,Bakery and Cafe,Bread and Pastries,Bakery mentioned in Places dataset.
+R336,Uttarakhand,Mussoorie,Kempinski Hotel Restaurant,Fine Dining,Continental,Grilled Fish,Luxury hotel restaurant.
+R337,Uttarakhand,Mussoorie,Tavern Restaurant,Casual Dining,Continental,Tandoori Chicken,Heritage restaurant.
+R338,Uttarakhand,Mussoorie,Honey Hut Cafe,Cafe,Continental,Honey Cake,Hill station favorite cafe.
+R339,Uttarakhand,Haridwar,Chotiwala Haridwar,Street Food,North Indian,Puris,Ghat-side famous eatery.
+R340,Uttarakhand,Haridwar,Ramakrishna Restaurant,Casual Dining,North Indian,Dal Makhani,Pilgrimage-area restaurant.
+R341,Uttarakhand,Haridwar,New Ashok Restaurant,Casual Dining,North Indian,Biryani,Traditional eatery.
+R342,Uttarakhand,Haridwar,Brahm Kund Cafe,Cafe,North Indian,Tea,Kund-side cafe.
+R343,Uttarakhand,Dehradun,Kalsang Friends Corner,Cafe,Tibetan,Momos,Cafe mentioned in Places dataset.
+R344,Uttarakhand,Dehradun,Cafe Coffee Day,Cafe,Cafe,Coffee,Modern cafe chain.
+R345,Uttarakhand,Dehradun,Doon Valley Restaurant,Casual Dining,North Indian,Tandoori Chicken,Traditional restaurant.
+R346,Uttarakhand,Dehradun,Chaar Dinariyan Restaurant,Casual Dining,North Indian,Dal Makhani,Heritage eatery.
+R347,Uttarakhand,Auli,Local Auli Resort Restaurants,Casual Dining,North Indian,Tandoori Chicken,Resort restaurants mentioned in Places dataset.
+R348,Uttarakhand,Auli,Auli Hotel Restaurant,Casual Dining,North Indian,Dal Makhani,Ski resort restaurant.
+R349,Uttarakhand,Auli,Mountain View Cafe,Cafe,Continental,Tea,Resort area cafe.
+R350,Uttarakhand,Auli,Larch Restaurant,Casual Dining,North Indian,Biryani,Alpine-view restaurant.
+R351,Uttarakhand,Kausani,Local Kausani Eateries,Casual Dining,North Indian,Pav Bhaji,Street eateries mentioned in Places dataset.
+R352,Uttarakhand,Kausani,Kausani Guest House,Casual Dining,North Indian,Dal Makhani,Guesthouse restaurant.
+R353,Uttarakhand,Kausani,Himalaya View Cafe,Cafe,North Indian,Tea and Snacks,Viewpoint cafe.
+R354,Uttarakhand,Kausani,Ashram Kitchen,Casual Dining,Vegetarian,Khichdi,Ashram-area restaurant.
+R355,Uttarakhand,Ranikhet,Local Ranikhet Cafes,Cafe,North Indian,Tea,Cafes mentioned in Places dataset.
+R356,Uttarakhand,Ranikhet,Ranikhet Hotel,Casual Dining,North Indian,Tandoori Chicken,Hill station restaurant.
+R357,Uttarakhand,Ranikhet,Mall Road Cafe,Cafe,Continental,Coffee and Pastries,Shopping area cafe.
+R358,Uttarakhand,Ranikhet,Pine Tree Restaurant,Casual Dining,North Indian,Dal Makhani,Traditional eatery.
+R359,Uttarakhand,Ramnagar (Jim Corbett),Local Ramnagar Resort Restaurants,Casual Dining,North Indian,Tandoori Chicken,Resort restaurants mentioned in Places dataset.
+R360,Uttarakhand,Ramnagar (Jim Corbett),Corbett Restaurant,Casual Dining,North Indian,Dal Makhani,Park-area restaurant.
+R361,Uttarakhand,Ramnagar (Jim Corbett),Jungle Lodge Cafe,Cafe,North Indian,Tea,Lodge cafe.
+R362,Uttarakhand,Ramnagar (Jim Corbett),Safari Restaurant,Casual Dining,North Indian,Biryani,Adventure-area restaurant.
+R363,Goa,Panaji,Viva Panjim,Casual Dining,Goan,Goan Fish Curry,Restaurant mentioned in Places dataset serving authentic Goan cuisine.
+R364,Goa,Panaji,Cafe Bodega,Casual Dining,Goan,Feijoada,Portuguese-Goan restaurant.
+R365,Goa,Panaji,Mum Mia,Casual Dining,Continental,Pizza,Modern casual restaurant.
+R366,Goa,Panaji,Lakeside Restaurant,Casual Dining,Goan,Prawn Koliwada,River-view eatery.
+R367,Goa,Calangute,Souza Lobo,Casual Dining,Goan,Fish Curry,Restaurant mentioned in Places dataset serving Goan seafood.
+R368,Goa,Calangute,Bacchanal Restaurant,Casual Dining,Continental,Grilled Fish,Beach restaurant.
+R369,Goa,Calangute,Plantain Leaf,Casual Dining,Goan,Prawn Biryani,Traditional Goan eatery.
+R370,Goa,Calangute,Thalassa Restaurant,Casual Dining,Seafood,Grilled Lobster,Mediterranean seafood specialist.
+R371,Goa,Baga,Britto's,Casual Dining,Goan,Fish Fry,Restaurant mentioned in Places dataset serving beach food.
+R372,Goa,Baga,Baga Beachside Shack,Casual Dining,Seafood,Grilled Prawns,Beachfront casual eatery.
+R373,Goa,Baga,Fiesta Restaurant,Casual Dining,Continental,Pasta,Hill-top restaurant.
+R374,Goa,Baga,Bamboleo Restaurant,Casual Dining,Goan,Sorpotel,Traditional Goan restaurant.
+R375,Goa,Anjuna,Curlies Beach Shack,Casual Dining,Goan,Fish Curry,Restaurant mentioned in Places dataset.
+R376,Goa,Anjuna,German Bakery,Bakery and Cafe,Continental,Bread and Pastries,Famous bakery-cafe.
+R377,Goa,Anjuna,Manali Restaurant,Casual Dining,Goan,Crab Masala,Traditional eatery.
+R378,Goa,Anjuna,Anjuna Spice,Casual Dining,Goan,Prawn Koliwada,Local favorite.
+R379,Goa,Candolim,Bomra's Restaurant,Casual Dining,Goan Fusion,Goan Fish Curry,Restaurant mentioned in Places dataset.
+R380,Goa,Candolim,Fort Aguada Restaurant,Casual Dining,Seafood,Tandoori Fish,Fort-view restaurant.
+R381,Goa,Candolim,O Pedro,Casual Dining,Goan,Sorpotel,Traditional Goan specialist.
+R382,Goa,Candolim,Xavier's Restaurant,Fine Dining,Goan,Fish Koliwada,Heritage fine-dining restaurant.
+R383,Goa,Palolem,Ourem 88,Casual Dining,Goan,Fish Curry,Restaurant mentioned in Places dataset serving coastal cuisine.
+R384,Goa,Palolem,Palolem Beach Shack,Casual Dining,Seafood,Grilled Fish,Beachfront eatery.
+R385,Goa,Palolem,Sublime Restaurant,Casual Dining,Continental,Pizza,Traveler-friendly restaurant.
+R386,Goa,Palolem,Pappi Olive Shack,Casual Dining,Goan,Prawn Biryani,Beach shack.
+R387,Goa,Margao,Longuinhos Restaurant,Casual Dining,Goan,Fish Curry,Restaurant mentioned in Places dataset serving Goan classics.
+R388,Goa,Margao,Hotel Nanu,Casual Dining,Goan,Tandoori Fish,Traditional hotel-restaurant.
+R389,Goa,Margao,Café Coffee Day,Cafe,Cafe,Coffee,Modern cafe chain.
+R390,Goa,Margao,Municipal Market Eatery,Street Food,Goan,Crab Masala,Street-side market stall.
+R391,Goa,Vasco da Gama,Bogmalo Beach Shack,Casual Dining,Seafood,Grilled Fish,Beach restaurant.
+R392,Goa,Vasco da Gama,Naval Base Restaurant,Casual Dining,Goan,Fish Curry,Military-area restaurant.
+R393,Goa,Vasco da Gama,Dunes Restaurant,Casual Dining,Goan,Prawn Koliwada,Beach-view restaurant.
+R394,Goa,Vasco da Gama,Local Vasco Seafood Joint,Street Food,Seafood,Crab Fry,Market-area street stall.
+R395,Goa,Old Goa,Old Goa Cafe,Cafe,Goan,Tea and Snacks,Heritage-area cafe mentioned in Places dataset.
+R396,Goa,Old Goa,Heritage Restaurant,Casual Dining,Goan,Fish Curry,Historic-area restaurant.
+R397,Goa,Old Goa,Basilica Cafe,Cafe,Goan,Coffee,Basilica-adjacent cafe.
+R398,Goa,Old Goa,Convent Kitchen,Casual Dining,Goan,Sorpotel,Heritage convent restaurant.
+R399,Delhi (NCT),New Delhi,Indian Accent,Fine Dining,Indian Fusion,Tandoori Chicken,Restaurant mentioned in Places dataset serving modern Indian cuisine.
+R400,Delhi (NCT),New Delhi,Dum Pukht,Fine Dining,Mughlai,Biryani,Luxury restaurant serving Awadhi specialties.
+R401,Delhi (NCT),New Delhi,Dhaba by Claridges,Casual Dining,North Indian,Butter Chicken,Upscale dhaba experience.
+R402,Delhi (NCT),New Delhi,Khan Market Eateries,Casual Dining,North Indian,Tandoori Chicken,Market-area restaurants.
+R403,Delhi (NCT),Old Delhi,Karim's,Casual Dining,Mughlai,Biryani,Restaurant mentioned in Places dataset serving Mughlai classics.
+R404,Delhi (NCT),Old Delhi,Al Jawahar,Casual Dining,Mughlai,Tandoori Chicken,Historic Old Delhi restaurant.
+R405,Delhi (NCT),Old Delhi,Gali Paranthe Wali,Street Food,North Indian,Parantha,Famous alley of parantha shops.
+R406,Delhi (NCT),Old Delhi,Jama Masjid Chaat Stall,Street Food,North Indian,Chaat,Near-mosque street stall.
+R407,Delhi (NCT),Chandni Chowk,Paranthe Wali Gali,Street Food,North Indian,Parantha,Chandni Chowk mentioned in Places dataset.
+R408,Delhi (NCT),Chandni Chowk,Haldiram's,Casual Dining,Indian Sweets,Kachori,Sweets and snacks chain.
+R409,Delhi (NCT),Chandni Chowk,Natraj Restaurant,Casual Dining,North Indian,Tandoori Chicken,Market-area restaurant.
+R410,Delhi (NCT),Chandni Chowk,Chaat Wali Gali,Street Food,North Indian,Chaat,Street food alley.
+R411,Delhi (NCT),Connaught Place,United Coffee House,Casual Dining,Continental,Chelo Kebab,Restaurant mentioned in Places dataset.
+R412,Delhi (NCT),Connaught Place,Barista,Cafe,Cafe,Coffee,Modern cafe chain.
+R413,Delhi (NCT),Connaught Place,Naan Restaurant,Casual Dining,North Indian,Butter Chicken,CP mall restaurant.
+R414,Delhi (NCT),Connaught Place,Indian Coffee House,Cafe,Indian,Filter Coffee,Heritage cafe.
+R415,Delhi (NCT),South Delhi (Hauz Khas),Diggin Cafe,Cafe,Continental,Pasta,Cafe mentioned in Places dataset.
+R416,Delhi (NCT),South Delhi (Hauz Khas),Village Cafe,Cafe,Continental,Pizza,Village restaurant.
+R417,Delhi (NCT),South Delhi (Hauz Khas),Farzi Cafe,Casual Dining,Indian Fusion,Tandoori Chicken,Modern fusion restaurant.
+R418,Delhi (NCT),South Delhi (Hauz Khas),Hauz Khas Restaurant,Casual Dining,North Indian,Dal Makhani,Heritage restaurant.
+R419,Delhi (NCT),Dwarka,Local Dwarka Eateries,Casual Dining,North Indian,Tandoori Chicken,Street eateries mentioned in Places dataset.
+R420,Delhi (NCT),Dwarka,Dwarka Hotel,Casual Dining,North Indian,Butter Chicken,Sector restaurant.
+R421,Delhi (NCT),Dwarka,Sector 10 Cafe,Cafe,North Indian,Tea,Sector-area cafe.
+R422,Delhi (NCT),Dwarka,Radha Krishna Restaurant,Casual Dining,North Indian,Dal Makhani,Local favorite.
+R423,Delhi (NCT),Gurugram (NCR),Cyber Hub Restaurants,Casual Dining,Multi-cuisine,Tandoori Chicken,Restaurants mentioned in Places dataset.
+R424,Delhi (NCT),Gurugram (NCR),Altitude Restaurant,Fine Dining,Continental,Grilled Fish,Luxury restaurant.
+R425,Delhi (NCT),Gurugram (NCR),Social Restaurant,Casual Dining,Multi-cuisine,Pasta,Modern casual dining.
+R426,Delhi (NCT),Gurugram (NCR),Kingdom Restaurant,Casual Dining,North Indian,Butter Chicken,Mall restaurant.
+R427,Delhi (NCT),Noida (NCR),Local Noida Sector Markets,Street Food,North Indian,Tandoori Chicken,Market eateries mentioned in Places dataset.
+R428,Delhi (NCT),Noida (NCR),Sector 18 Mall Restaurants,Casual Dining,Multi-cuisine,Biryani,Mall restaurants.
+R429,Delhi (NCT),Noida (NCR),Noida Hotel,Casual Dining,North Indian,Butter Chicken,Sector restaurant.
+R430,Delhi (NCT),Noida (NCR),Sharma Restaurant,Casual Dining,North Indian,Dal Makhani,Local favorite.
+R431,Delhi (NCT),Faridabad (NCR),Local Faridabad Eateries,Casual Dining,North Indian,Tandoori Chicken,Street eateries mentioned in Places dataset.
+R432,Delhi (NCT),Faridabad (NCR),Surajkund Restaurant,Casual Dining,North Indian,Butter Chicken,Town restaurant.
+R433,Delhi (NCT),Faridabad (NCR),Railway Station Eatery,Casual Dining,North Indian,Dal Makhani,Station-area restaurant.
+R434,Delhi (NCT),Faridabad (NCR),Sharma Dhaba,Casual Dining,North Indian,Chole Bhature,Local dhaba.

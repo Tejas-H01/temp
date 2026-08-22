@@ -1,0 +1,325 @@
+state,city,tier,accommodation_per_day,food_per_day,local_transport_per_day,activities_per_day,total_per_day,notes
+Maharashtra,Mumbai,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Maharashtra,Mumbai,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Maharashtra,Mumbai,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Maharashtra,Pune,budget,900,550,350,400,2200,
+Maharashtra,Pune,mid-range,1900,1050,550,700,4200,
+Maharashtra,Pune,luxury,5500,2200,1200,1600,10500,
+Maharashtra,Nashik,budget,900,550,350,400,2200,
+Maharashtra,Nashik,mid-range,1900,1050,550,700,4200,
+Maharashtra,Nashik,luxury,5500,2200,1200,1600,10500,
+Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),budget,900,550,350,400,2200,
+Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),mid-range,1900,1050,550,700,4200,
+Maharashtra,Aurangabad (Chhatrapati Sambhajinagar),luxury,5500,2200,1200,1600,10500,
+Maharashtra,Lonavala,budget,900,550,350,400,2200,
+Maharashtra,Lonavala,mid-range,1900,1050,550,700,4200,
+Maharashtra,Lonavala,luxury,5500,2200,1200,1600,10500,
+Maharashtra,Mahabaleshwar,budget,900,550,350,400,2200,
+Maharashtra,Mahabaleshwar,mid-range,1900,1050,550,700,4200,
+Maharashtra,Mahabaleshwar,luxury,5500,2200,1200,1600,10500,
+Maharashtra,Nagpur,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Maharashtra,Nagpur,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Maharashtra,Nagpur,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Maharashtra,Kolhapur,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Maharashtra,Kolhapur,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Maharashtra,Kolhapur,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Maharashtra,Alibaug,budget,900,550,350,400,2200,
+Maharashtra,Alibaug,mid-range,1900,1050,550,700,4200,
+Maharashtra,Alibaug,luxury,5500,2200,1200,1600,10500,
+Rajasthan,Jaipur,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jaipur,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jaipur,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Udaipur,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Udaipur,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Udaipur,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jodhpur,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jodhpur,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jodhpur,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jaisalmer,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jaisalmer,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Jaisalmer,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Rajasthan,Pushkar,budget,900,550,350,400,2200,
+Rajasthan,Pushkar,mid-range,1900,1050,550,700,4200,
+Rajasthan,Pushkar,luxury,5500,2200,1200,1600,10500,
+Rajasthan,Mount Abu,budget,900,550,350,400,2200,
+Rajasthan,Mount Abu,mid-range,1900,1050,550,700,4200,
+Rajasthan,Mount Abu,luxury,5500,2200,1200,1600,10500,
+Rajasthan,Bikaner,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Bikaner,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Bikaner,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Ajmer,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Ajmer,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Ajmer,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Chittorgarh,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Chittorgarh,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Rajasthan,Chittorgarh,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Kerala,Kochi,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Kochi,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Kochi,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Munnar,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Munnar,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Munnar,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Alleppey,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Alleppey,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Alleppey,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Thekkady,budget,900,550,350,400,2200,
+Kerala,Thekkady,mid-range,1900,1050,550,700,4200,
+Kerala,Thekkady,luxury,5500,2200,1200,1600,10500,
+Kerala,Wayanad,budget,900,550,350,400,2200,
+Kerala,Wayanad,mid-range,1900,1050,550,700,4200,
+Kerala,Wayanad,luxury,5500,2200,1200,1600,10500,
+Kerala,Kovalam,budget,900,550,350,400,2200,
+Kerala,Kovalam,mid-range,1900,1050,550,700,4200,
+Kerala,Kovalam,luxury,5500,2200,1200,1600,10500,
+Kerala,Kumarakom,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Kumarakom,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Kumarakom,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Kerala,Varkala,budget,900,550,350,400,2200,
+Kerala,Varkala,mid-range,1900,1050,550,700,4200,
+Kerala,Varkala,luxury,5500,2200,1200,1600,10500,
+Kerala,Kozhikode,budget,900,550,350,400,2200,
+Kerala,Kozhikode,mid-range,1900,1050,550,700,4200,
+Kerala,Kozhikode,luxury,5500,2200,1200,1600,10500,
+Tamil Nadu,Chennai,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Tamil Nadu,Chennai,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Tamil Nadu,Chennai,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Tamil Nadu,Ooty,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Tamil Nadu,Ooty,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Tamil Nadu,Ooty,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Tamil Nadu,Madurai,budget,900,550,350,400,2200,
+Tamil Nadu,Madurai,mid-range,1900,1050,550,700,4200,
+Tamil Nadu,Madurai,luxury,5500,2200,1200,1600,10500,
+Tamil Nadu,Kodaikanal,budget,900,550,350,400,2200,
+Tamil Nadu,Kodaikanal,mid-range,1900,1050,550,700,4200,
+Tamil Nadu,Kodaikanal,luxury,5500,2200,1200,1600,10500,
+Tamil Nadu,Rameswaram,budget,900,550,350,400,2200,
+Tamil Nadu,Rameswaram,mid-range,1900,1050,550,700,4200,
+Tamil Nadu,Rameswaram,luxury,5500,2200,1200,1600,10500,
+Tamil Nadu,Kanyakumari,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Tamil Nadu,Kanyakumari,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Tamil Nadu,Kanyakumari,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Tamil Nadu,Mahabalipuram,budget,900,550,350,400,2200,
+Tamil Nadu,Mahabalipuram,mid-range,1900,1050,550,700,4200,
+Tamil Nadu,Mahabalipuram,luxury,5500,2200,1200,1600,10500,
+Tamil Nadu,Coimbatore,budget,900,550,350,400,2200,
+Tamil Nadu,Coimbatore,mid-range,1900,1050,550,700,4200,
+Tamil Nadu,Coimbatore,luxury,5500,2200,1200,1600,10500,
+Tamil Nadu,Thanjavur,budget,900,550,350,400,2200,
+Tamil Nadu,Thanjavur,mid-range,1900,1050,550,700,4200,
+Tamil Nadu,Thanjavur,luxury,5500,2200,1200,1600,10500,
+Karnataka,Bangalore,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Bangalore,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Bangalore,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Mysore,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Mysore,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Mysore,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Coorg,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Coorg,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Coorg,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Hampi,budget,900,550,350,400,2200,
+Karnataka,Hampi,mid-range,1900,1050,550,700,4200,
+Karnataka,Hampi,luxury,5500,2200,1200,1600,10500,
+Karnataka,Gokarna,budget,900,550,350,400,2200,
+Karnataka,Gokarna,mid-range,1900,1050,550,700,4200,
+Karnataka,Gokarna,luxury,5500,2200,1200,1600,10500,
+Karnataka,Chikmagalur,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Chikmagalur,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Chikmagalur,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Karnataka,Udupi,budget,900,550,350,400,2200,
+Karnataka,Udupi,mid-range,1900,1050,550,700,4200,
+Karnataka,Udupi,luxury,5500,2200,1200,1600,10500,
+Karnataka,Badami,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Karnataka,Badami,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Karnataka,Badami,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Karnataka,Vijayapura (Bijapur),budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Karnataka,Vijayapura (Bijapur),mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Karnataka,Vijayapura (Bijapur),luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Agra,budget,900,550,350,400,2200,
+Uttar Pradesh,Agra,mid-range,1900,1050,550,700,4200,
+Uttar Pradesh,Agra,luxury,5500,2200,1200,1600,10500,
+Uttar Pradesh,Varanasi,budget,900,550,350,400,2200,
+Uttar Pradesh,Varanasi,mid-range,1900,1050,550,700,4200,
+Uttar Pradesh,Varanasi,luxury,5500,2200,1200,1600,10500,
+Uttar Pradesh,Lucknow,budget,900,550,350,400,2200,
+Uttar Pradesh,Lucknow,mid-range,1900,1050,550,700,4200,
+Uttar Pradesh,Lucknow,luxury,5500,2200,1200,1600,10500,
+Uttar Pradesh,Mathura,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Mathura,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Mathura,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Vrindavan,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Vrindavan,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Vrindavan,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Ayodhya,budget,900,550,350,400,2200,
+Uttar Pradesh,Ayodhya,mid-range,1900,1050,550,700,4200,
+Uttar Pradesh,Ayodhya,luxury,5500,2200,1200,1600,10500,
+Uttar Pradesh,Prayagraj (Allahabad),budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Prayagraj (Allahabad),mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Prayagraj (Allahabad),luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Jhansi,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Jhansi,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Jhansi,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Kushinagar,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Kushinagar,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttar Pradesh,Kushinagar,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Himachal Pradesh,Manali,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Manali,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Manali,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Shimla,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Shimla,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Shimla,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Dharamshala,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Dharamshala,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Dharamshala,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Himachal Pradesh,Kasol,budget,900,550,350,400,2200,
+Himachal Pradesh,Kasol,mid-range,1900,1050,550,700,4200,
+Himachal Pradesh,Kasol,luxury,5500,2200,1200,1600,10500,
+Himachal Pradesh,Dalhousie,budget,900,550,350,400,2200,
+Himachal Pradesh,Dalhousie,mid-range,1900,1050,550,700,4200,
+Himachal Pradesh,Dalhousie,luxury,5500,2200,1200,1600,10500,
+Himachal Pradesh,Kullu,budget,900,550,350,400,2200,
+Himachal Pradesh,Kullu,mid-range,1900,1050,550,700,4200,
+Himachal Pradesh,Kullu,luxury,5500,2200,1200,1600,10500,
+Himachal Pradesh,Spiti Valley,budget,900,550,350,400,2200,
+Himachal Pradesh,Spiti Valley,mid-range,1900,1050,550,700,4200,
+Himachal Pradesh,Spiti Valley,luxury,5500,2200,1200,1600,10500,
+Himachal Pradesh,Chail,budget,900,550,350,400,2200,
+Himachal Pradesh,Chail,mid-range,1900,1050,550,700,4200,
+Himachal Pradesh,Chail,luxury,5500,2200,1200,1600,10500,
+Himachal Pradesh,Bir Billing,budget,900,550,350,400,2200,
+Himachal Pradesh,Bir Billing,mid-range,1900,1050,550,700,4200,
+Himachal Pradesh,Bir Billing,luxury,5500,2200,1200,1600,10500,
+West Bengal,Kolkata,budget,900,550,350,400,2200,
+West Bengal,Kolkata,mid-range,1900,1050,550,700,4200,
+West Bengal,Kolkata,luxury,5500,2200,1200,1600,10500,
+West Bengal,Darjeeling,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+West Bengal,Darjeeling,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+West Bengal,Darjeeling,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+West Bengal,Digha,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Digha,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Digha,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Kalimpong,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Kalimpong,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Kalimpong,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Siliguri,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Siliguri,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Siliguri,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Shantiniketan,budget,900,550,350,400,2200,
+West Bengal,Shantiniketan,mid-range,1900,1050,550,700,4200,
+West Bengal,Shantiniketan,luxury,5500,2200,1200,1600,10500,
+West Bengal,Murshidabad,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Murshidabad,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Murshidabad,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Sundarbans,budget,900,550,350,400,2200,
+West Bengal,Sundarbans,mid-range,1900,1050,550,700,4200,
+West Bengal,Sundarbans,luxury,5500,2200,1200,1600,10500,
+West Bengal,Mirik,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Mirik,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+West Bengal,Mirik,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Amritsar,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Punjab,Amritsar,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Punjab,Amritsar,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Punjab,Chandigarh,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Punjab,Chandigarh,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Punjab,Chandigarh,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Punjab,Ludhiana,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Ludhiana,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Ludhiana,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Patiala,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Patiala,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Patiala,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Jalandhar,budget,900,550,350,400,2200,
+Punjab,Jalandhar,mid-range,1900,1050,550,700,4200,
+Punjab,Jalandhar,luxury,5500,2200,1200,1600,10500,
+Punjab,Anandpur Sahib,budget,900,550,350,400,2200,
+Punjab,Anandpur Sahib,mid-range,1900,1050,550,700,4200,
+Punjab,Anandpur Sahib,luxury,5500,2200,1200,1600,10500,
+Punjab,Bathinda,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Bathinda,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Bathinda,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Kapurthala,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Kapurthala,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Kapurthala,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Pathankot,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Pathankot,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Punjab,Pathankot,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Rishikesh,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Rishikesh,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Rishikesh,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Nainital,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Nainital,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Nainital,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Mussoorie,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Mussoorie,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Mussoorie,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Uttarakhand,Haridwar,budget,900,550,350,400,2200,
+Uttarakhand,Haridwar,mid-range,1900,1050,550,700,4200,
+Uttarakhand,Haridwar,luxury,5500,2200,1200,1600,10500,
+Uttarakhand,Dehradun,budget,900,550,350,400,2200,
+Uttarakhand,Dehradun,mid-range,1900,1050,550,700,4200,
+Uttarakhand,Dehradun,luxury,5500,2200,1200,1600,10500,
+Uttarakhand,Auli,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Auli,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Auli,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Kausani,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Kausani,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Kausani,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Ranikhet,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Ranikhet,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Ranikhet,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Ramnagar (Jim Corbett),budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Ramnagar (Jim Corbett),mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Uttarakhand,Ramnagar (Jim Corbett),luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Goa,Panaji,budget,900,550,350,400,2200,
+Goa,Panaji,mid-range,1900,1050,550,700,4200,
+Goa,Panaji,luxury,5500,2200,1200,1600,10500,
+Goa,Calangute,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Calangute,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Calangute,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Baga,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Baga,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Baga,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Anjuna,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Anjuna,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Anjuna,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Candolim,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Candolim,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Candolim,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Palolem,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Palolem,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Palolem,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Goa,Margao,budget,900,550,350,400,2200,
+Goa,Margao,mid-range,1900,1050,550,700,4200,
+Goa,Margao,luxury,5500,2200,1200,1600,10500,
+Goa,Vasco da Gama,budget,900,550,350,400,2200,
+Goa,Vasco da Gama,mid-range,1900,1050,550,700,4200,
+Goa,Vasco da Gama,luxury,5500,2200,1200,1600,10500,
+Goa,Old Goa,budget,900,550,350,400,2200,
+Goa,Old Goa,mid-range,1900,1050,550,700,4200,
+Goa,Old Goa,luxury,5500,2200,1200,1600,10500,
+Delhi (NCT),New Delhi,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),New Delhi,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),New Delhi,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),Old Delhi,budget,900,550,350,400,2200,
+Delhi (NCT),Old Delhi,mid-range,1900,1050,550,700,4200,
+Delhi (NCT),Old Delhi,luxury,5500,2200,1200,1600,10500,
+Delhi (NCT),Chandni Chowk,budget,900,550,350,400,2200,
+Delhi (NCT),Chandni Chowk,mid-range,1900,1050,550,700,4200,
+Delhi (NCT),Chandni Chowk,luxury,5500,2200,1200,1600,10500,
+Delhi (NCT),Connaught Place,budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),Connaught Place,mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),Connaught Place,luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),South Delhi (Hauz Khas),budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),South Delhi (Hauz Khas),mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),South Delhi (Hauz Khas),luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),Dwarka,budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Dwarka,mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Dwarka,luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Gurugram (NCR),budget,1120,690,440,500,2750,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),Gurugram (NCR),mid-range,2380,1310,690,880,5260,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),Gurugram (NCR),luxury,6880,2750,1500,2000,13130,Popular/high-demand destination — add ~15-20% during peak season (Oct-Mar / local festivals)
+Delhi (NCT),Noida (NCR),budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Noida (NCR),mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Noida (NCR),luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Faridabad (NCR),budget,740,450,290,330,1810,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Faridabad (NCR),mid-range,1560,860,450,570,3440,Smaller town — generally lower accommodation & transport costs than state capital
+Delhi (NCT),Faridabad (NCR),luxury,4510,1800,980,1310,8600,Smaller town — generally lower accommodation & transport costs than state capital
